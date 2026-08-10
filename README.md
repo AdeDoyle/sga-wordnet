@@ -51,7 +51,7 @@ Editor](https://github.com/jmccrae/ewe).
   (© [Caomhan27](https://commons.wikimedia.org/wiki/User:Caomhan27),
   [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)),
   used both as the logo and as the source of `theme.css`'s palette - the
-  flag's dark green (Connacht's field, `#003d07`) as the primary colour,
+  flag's dark green (Leinster's field, `#003d07`) as the primary colour,
   its gold (Ulster's field and the charges throughout) as the accent.
   Kept separate from `data/`, which is corpus source/derived data, not
   branding.
