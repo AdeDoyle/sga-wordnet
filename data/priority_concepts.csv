@@ -9,21 +9,21 @@ rank,synset_id,pos,lexfile,category,link_count,old_irish_lemmas,english_lemmas,d
 8,oewn-00023451-n,n,noun.Tops,top_concept,17,"ingnae","cognition, noesis, knowledge",the psychological result of perception and learning and reasoning
 9,oewn-00002684-n,n,noun.Tops,top_concept,12,"colnaide","object, physical object",a tangible and visible entity; an entity that can cast a shadow
 10,oewn-00033319-n,n,noun.Tops,top_concept,12,"medair",communication,something that is communicated by or to or between people or groups
-11,oewn-00003553-n,n,noun.Tops,top_concept,7,"","unit, whole",an assemblage of parts that is regarded as a single entity
-12,oewn-00007347-n,n,noun.Tops,top_concept,7,"","cause, causal agency, causal agent",any entity that produces an effect or is responsible for events or results
-13,oewn-00004258-n,n,noun.Tops,top_concept,5,"","animate thing, living thing",a living (or once living) entity
-14,oewn-00004475-n,n,noun.Tops,top_concept,5,"","being, organism",a living thing that has (or can develop) the ability to act or function independently
-15,oewn-00024900-n,n,noun.Tops,top_concept,5,"",state,the way something is with respect to its main attributes
-16,oewn-00029677-n,n,noun.Tops,top_concept,5,"",event,something that happens at a given place and time
-17,oewn-00030657-n,n,noun.Tops,top_concept,5,"","human action, human activity, deed, act",something that people do or cause to happen
-18,oewn-00027365-n,n,noun.Tops,top_concept,4,"",location,a point or extent in space; a point or extent in space
-19,oewn-00021007-n,n,noun.Tops,top_concept,3,"",matter,that which has mass and occupies space
-20,oewn-00033914-n,n,noun.Tops,top_concept,3,"","measure, amount, quantity",how much there is or how many there are of something that you can quantify
-21,oewn-00020270-n,n,noun.Tops,top_concept,2,"",substance,a particular kind or species of matter with uniform properties
-22,oewn-00021445-n,n,noun.Tops,top_concept,2,"","food, nutrient",any substance that can be metabolized by an animal to give energy and build tissue
-23,oewn-00002452-n,n,noun.Tops,top_concept,1,"",thing,a separate and self-contained entity
-24,oewn-00015568-n,n,noun.Tops,top_concept,1,"","beast, brute, animal, animate being, fauna, creature",a living organism characterized by voluntary movement
-25,oewn-00019308-n,n,noun.Tops,top_concept,1,"",natural object,an object occurring naturally; not made by man
+11,oewn-00003553-n,n,noun.Tops,top_concept,7,"unáir, uile, óg, ógus","unit, whole",an assemblage of parts that is regarded as a single entity
+12,oewn-00007347-n,n,noun.Tops,top_concept,7,"imḟolang, fochonn","cause, causal agency, causal agent",any entity that produces an effect or is responsible for events or results
+13,oewn-00004258-n,n,noun.Tops,top_concept,5,"ní béo, dúil béodae","animate thing, living thing",a living (or once living) entity
+14,oewn-00004475-n,n,noun.Tops,top_concept,5,"béo","being, organism",a living thing that has (or can develop) the ability to act or function independently
+15,oewn-00024900-n,n,noun.Tops,top_concept,5,"bal, alt",state,the way something is with respect to its main attributes
+16,oewn-00029677-n,n,noun.Tops,top_concept,5,"airisiu",event,something that happens at a given place and time
+17,oewn-00030657-n,n,noun.Tops,top_concept,5,"gním","human action, human activity, deed, act",something that people do or cause to happen
+18,oewn-00027365-n,n,noun.Tops,top_concept,4,"áitt",location,a point or extent in space; a point or extent in space
+19,oewn-00021007-n,n,noun.Tops,top_concept,3,"adbar",matter,that which has mass and occupies space
+20,oewn-00033914-n,n,noun.Tops,top_concept,3,"áirem, méit","measure, amount, quantity",how much there is or how many there are of something that you can quantify
+21,oewn-00020270-n,n,noun.Tops,top_concept,2,"aicde, folud",substance,a particular kind or species of matter with uniform properties
+22,oewn-00021445-n,n,noun.Tops,top_concept,2,"biad","food, nutrient",any substance that can be metabolized by an animal to give energy and build tissue
+23,oewn-00002452-n,n,noun.Tops,top_concept,1,"ní, rét",thing,a separate and self-contained entity
+24,oewn-00015568-n,n,noun.Tops,top_concept,1,"ainmide, anmandae, bíast","beast, brute, animal, animate being, fauna, creature",a living organism characterized by voluntary movement
+25,oewn-00019308-n,n,noun.Tops,top_concept,1,"colnaide aicnetae",natural object,an object occurring naturally; not made by man
 26,oewn-00022119-n,n,noun.Tops,top_concept,1,"","artefact, artifact",a man-made object taken as a whole
 27,oewn-00026390-n,n,noun.Tops,top_concept,1,"",feeling,the experiencing of affective and emotional states
 28,oewn-00028468-n,n,noun.Tops,top_concept,1,"",time,the continuum of experience in which events pass from the future through the present to the past
