@@ -24,21 +24,21 @@ rank,synset_id,pos,lexfile,category,link_count,old_irish_lemmas,english_lemmas,d
 23,oewn-00002452-n,n,noun.Tops,top_concept,1,"ní, rét",thing,a separate and self-contained entity
 24,oewn-00015568-n,n,noun.Tops,top_concept,1,"ainmide, anmandae, bíast","beast, brute, animal, animate being, fauna, creature",a living organism characterized by voluntary movement
 25,oewn-00019308-n,n,noun.Tops,top_concept,1,"colnaide aicnetae",natural object,an object occurring naturally; not made by man
-26,oewn-00022119-n,n,noun.Tops,top_concept,1,"","artefact, artifact",a man-made object taken as a whole
-27,oewn-00026390-n,n,noun.Tops,top_concept,1,"",feeling,the experiencing of affective and emotional states
-28,oewn-00028468-n,n,noun.Tops,top_concept,1,"",time,the continuum of experience in which events pass from the future through the present to the past
-29,oewn-00029976-n,n,noun.Tops,top_concept,1,"","process, physical process",a sustained phenomenon or one marked by gradual changes through a series of states
-49,oewn-06294878-n,n,noun.communication,bridging,20,"","language unit, linguistic unit",one of the natural units into which linguistic messages can be analyzed
-50,oewn-07968050-n,n,noun.group,bridging,14,"","assemblage, accumulation, aggregation, collection",several things grouped together or considered as a whole
-51,oewn-06320373-n,n,noun.communication,bridging,13,"","grammatical category, syntactic category",(grammar) a category of words having the same grammatical properties
-52,oewn-08014145-n,n,noun.group,bridging,13,"","class, family, category",a collection of things sharing a common attribute
-53,oewn-05817200-n,n,noun.cognition,bridging,12,"","content, cognitive content, mental object","the sum or range of what has been perceived, discovered, or learned"
-54,oewn-05842164-n,n,noun.cognition,bridging,10,"","idea, thought",the content of cognition; the main thing you are thinking about
-55,oewn-05844071-n,n,noun.cognition,bridging,9,"","conception, concept, construct",an abstract or general idea inferred or derived from specific instances
-56,oewn-04923519-n,n,noun.attribute,bridging,8,"",property,a basic or essential property shared by all members of a class
-57,oewn-04731092-n,n,noun.attribute,bridging,5,"",quality,an essential and distinguishing attribute of something or someone
-58,oewn-06300030-n,n,noun.communication,bridging,5,"","open-class word, content word",a word to which an independent meaning can be assigned
-59,oewn-06328457-n,n,noun.communication,bridging,4,"","part of speech, form class, word class",one of the traditional categories of words intended to reflect their functions in a grammatical context
+26,oewn-00022119-n,n,noun.Tops,top_concept,1,"dénta, rét dénta","artefact, artifact",a man-made object taken as a whole
+27,oewn-00026390-n,n,noun.Tops,top_concept,1,"cétfaid",feeling,the experiencing of affective and emotional states
+28,oewn-00028468-n,n,noun.Tops,top_concept,1,"amm, *úain",time,the continuum of experience in which events pass from the future through the present to the past
+29,oewn-00029976-n,n,noun.Tops,top_concept,1,"*conar","process, physical process",a sustained phenomenon or one marked by gradual changes through a series of states
+49,oewn-06294878-n,n,noun.communication,bridging,20,"unáir tengad","language unit, linguistic unit",one of the natural units into which linguistic messages can be analyzed
+50,oewn-07968050-n,n,noun.group,bridging,14,"comthinól, congab","assemblage, accumulation, aggregation, collection",several things grouped together or considered as a whole
+51,oewn-06320373-n,n,noun.communication,bridging,13,"ernail grammatic","grammatical category, syntactic category",(grammar) a category of words having the same grammatical properties
+52,oewn-08014145-n,n,noun.group,bridging,13,"ernail","class, family, category",a collection of things sharing a common attribute
+53,oewn-05817200-n,n,noun.cognition,bridging,12,"lucht, lucht menman, colnaide menman","content, cognitive content, mental object","the sum or range of what has been perceived, discovered, or learned"
+54,oewn-05842164-n,n,noun.cognition,bridging,10,"coicell, smúained","idea, thought",the content of cognition; the main thing you are thinking about
+55,oewn-05844071-n,n,noun.cognition,bridging,9,"compert","conception, concept, construct",an abstract or general idea inferred or derived from specific instances
+56,oewn-04923519-n,n,noun.attribute,bridging,8,"cáil",property,a basic or essential property shared by all members of a class
+57,oewn-04731092-n,n,noun.attribute,bridging,5,"cáil, aiste",quality,an essential and distinguishing attribute of something or someone
+58,oewn-06300030-n,n,noun.communication,bridging,5,"bríathar bríghe","open-class word, content word",a word to which an independent meaning can be assigned
+59,oewn-06328457-n,n,noun.communication,bridging,4,"rann insce","part of speech, form class, word class",one of the traditional categories of words intended to reflect their functions in a grammatical context
 60,oewn-06328665-n,n,noun.communication,bridging,4,"",major form class,any of the major parts of speech of traditional grammar
 61,oewn-06804229-n,n,noun.communication,bridging,4,"","signal, sign, signaling, signalling",any nonverbal action or gesture that encodes a message
 62,oewn-06819327-n,n,noun.communication,bridging,4,"",symbol,an arbitrary sign (written or printed) that has acquired a conventional significance
