@@ -39,22 +39,22 @@ rank,synset_id,pos,lexfile,category,link_count,old_irish_lemmas,english_lemmas,d
 57,oewn-04731092-n,n,noun.attribute,bridging,5,"cáil, aiste",quality,an essential and distinguishing attribute of something or someone
 58,oewn-06300030-n,n,noun.communication,bridging,5,"bríathar bríghe","open-class word, content word",a word to which an independent meaning can be assigned
 59,oewn-06328457-n,n,noun.communication,bridging,4,"rann insce","part of speech, form class, word class",one of the traditional categories of words intended to reflect their functions in a grammatical context
-60,oewn-06328665-n,n,noun.communication,bridging,4,"",major form class,any of the major parts of speech of traditional grammar
-61,oewn-06804229-n,n,noun.communication,bridging,4,"","signal, sign, signaling, signalling",any nonverbal action or gesture that encodes a message
-62,oewn-06819327-n,n,noun.communication,bridging,4,"",symbol,an arbitrary sign (written or printed) that has acquired a conventional significance
-63,oewn-06830481-n,n,noun.communication,bridging,4,"","printed symbol, written symbol",a written or printed symbol
-64,oewn-13818991-n,n,noun.relation,bridging,4,"",grammatical relation,a linguistic relation established by grammar
-65,oewn-13819354-n,n,noun.relation,bridging,4,"",linguistic relation,a relation between linguistic forms or constituents
-66,oewn-00408356-n,n,noun.act,bridging,3,"",activity,any specific behavior
-67,oewn-10255246-n,n,noun.person,bridging,3,"","relation, relative",a person related by blood or marriage
+60,oewn-06328665-n,n,noun.communication,bridging,4,"*prímrann insce",major form class,any of the major parts of speech of traditional grammar
+61,oewn-06804229-n,n,noun.communication,bridging,4,"caismert, comartha","signal, sign, signaling, signalling",any nonverbal action or gesture that encodes a message
+62,oewn-06819327-n,n,noun.communication,bridging,4,"not, comartha, fiugair",symbol,an arbitrary sign (written or printed) that has acquired a conventional significance
+63,oewn-06830481-n,n,noun.communication,bridging,4,"not, comartha, fiugair, not scríbind","printed symbol, written symbol",a written or printed symbol
+64,oewn-13818991-n,n,noun.relation,bridging,4,"coibne grammatic",grammatical relation,a linguistic relation established by grammar
+65,oewn-13819354-n,n,noun.relation,bridging,4,"coibne tengad",linguistic relation,a relation between linguistic forms or constituents
+66,oewn-00408356-n,n,noun.act,bridging,3,"gním, oipred",activity,any specific behavior
+67,oewn-10255246-n,n,noun.person,bridging,3,"coibdelach, coibne, comḟíalus","relation, relative",a person related by blood or marriage
 68,oewn-06331794-n,n,noun.communication,bridging,3,"","qualifier, modifier",a content word that qualifies the meaning of a noun or verb
-69,oewn-06332695-n,n,noun.communication,bridging,3,"",adjective,a word that expresses an attribute of something
-70,oewn-06334605-n,n,noun.communication,bridging,3,"",adverb,a word that modifies something other than a noun
-71,oewn-06611268-n,n,noun.communication,bridging,3,"","content, substance, subject matter, message",content communicating a message; what something is about
-72,oewn-07125755-n,n,noun.communication,bridging,3,"","phone, sound, speech sound",(phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language
-73,oewn-04623416-n,n,noun.attribute,bridging,2,"",trait,a distinguishing feature of your personal nature
-74,oewn-05097645-n,n,noun.attribute,bridging,2,"",magnitude,the property of relative size or extent (whether large or small)
-75,oewn-05115065-n,n,noun.attribute,bridging,2,"",amount,the relative magnitude of something with reference to a criterion
+69,oewn-06332695-n,n,noun.communication,bridging,3,"adiect",adjective,a word that expresses an attribute of something
+70,oewn-06334605-n,n,noun.communication,bridging,3,"dobríathar",adverb,a word that modifies something other than a noun
+71,oewn-06611268-n,n,noun.communication,bridging,3,"argamaint","content, substance, subject matter, message",content communicating a message; what something is about
+72,oewn-07125755-n,n,noun.communication,bridging,3,"fogur","phone, sound, speech sound",(phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language
+73,oewn-04623416-n,n,noun.attribute,bridging,2,"cáil",trait,a distinguishing feature of your personal nature
+74,oewn-05097645-n,n,noun.attribute,bridging,2,"méit",magnitude,the property of relative size or extent (whether large or small)
+75,oewn-05115065-n,n,noun.attribute,bridging,2,"méit",amount,the relative magnitude of something with reference to a criterion
 76,oewn-00576778-n,n,noun.act,bridging,2,"",work,activity directed toward making or doing something
 77,oewn-09786620-n,n,noun.person,bridging,2,"","doer, actor, worker",a person who acts and gets things done
 78,oewn-09937706-n,n,noun.person,bridging,2,"","child, kid",a human offspring (son or daughter) of any age
