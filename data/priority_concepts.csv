@@ -16,7 +16,7 @@ rank,synset_id,pos,lexfile,category,link_count,old_irish_lemmas,english_lemmas,d
 15,oewn-00024900-n,n,noun.Tops,top_concept,5,"bal, alt",state,the way something is with respect to its main attributes
 16,oewn-00029677-n,n,noun.Tops,top_concept,5,"airisiu",event,something that happens at a given place and time
 17,oewn-00030657-n,n,noun.Tops,top_concept,5,"gním","human action, human activity, deed, act",something that people do or cause to happen
-18,oewn-00027365-n,n,noun.Tops,top_concept,4,"áitt",location,a point or extent in space; a point or extent in space
+18,oewn-00027365-n,n,noun.Tops,top_concept,4,"áitt, loc",location,a point or extent in space; a point or extent in space
 19,oewn-00021007-n,n,noun.Tops,top_concept,3,"adbar",matter,that which has mass and occupies space
 20,oewn-00033914-n,n,noun.Tops,top_concept,3,"áirem, méit","measure, amount, quantity",how much there is or how many there are of something that you can quantify
 21,oewn-00020270-n,n,noun.Tops,top_concept,2,"aicde, folud",substance,a particular kind or species of matter with uniform properties
@@ -55,16 +55,16 @@ rank,synset_id,pos,lexfile,category,link_count,old_irish_lemmas,english_lemmas,d
 73,oewn-04623416-n,n,noun.attribute,bridging,2,"cáil",trait,a distinguishing feature of your personal nature
 74,oewn-05097645-n,n,noun.attribute,bridging,2,"méit",magnitude,the property of relative size or extent (whether large or small)
 75,oewn-05115065-n,n,noun.attribute,bridging,2,"méit",amount,the relative magnitude of something with reference to a criterion
-76,oewn-00576778-n,n,noun.act,bridging,2,"",work,activity directed toward making or doing something
-77,oewn-09786620-n,n,noun.person,bridging,2,"","doer, actor, worker",a person who acts and gets things done
-78,oewn-09937706-n,n,noun.person,bridging,2,"","child, kid",a human offspring (son or daughter) of any age
-79,oewn-10393697-n,n,noun.person,bridging,2,"","issue, offspring, progeny",the immediate descendants of a person
-80,oewn-07571428-n,n,noun.food,bridging,2,"","food, solid food",any solid substance (as opposed to liquid) that is used as a source of nourishment
-81,oewn-06301417-n,n,noun.communication,bridging,2,"","form, signifier, descriptor, word form",the phonological or orthographic sound or appearance of a word that can be used to describe or identify something
-82,oewn-06302098-n,n,noun.communication,bridging,2,"","function word, closed-class word",a word that is uninflected and serves a grammatical function but has little identifiable meaning
-83,oewn-06314530-n,n,noun.communication,bridging,2,"",substantive,any word or group of words functioning as a noun
-84,oewn-06322324-n,n,noun.communication,bridging,2,"","oblique, oblique case",any grammatical case other than the nominative
-85,oewn-06735202-n,n,noun.communication,bridging,2,"",statement,a message that is stated or declared; a communication (oral or written) setting forth particulars or facts etc
+76,oewn-00576778-n,n,noun.act,bridging,2,"opar, saethar, gnímrad, lubair",work,activity directed toward making or doing something
+77,oewn-09786620-n,n,noun.person,bridging,2,"gníthid, gnía, oibrid, saethraige","doer, actor, worker",a person who acts and gets things done
+78,oewn-09937706-n,n,noun.person,bridging,2,"lenab, noídiu","child, kid",a human offspring (son or daughter) of any age
+79,oewn-10393697-n,n,noun.person,bridging,2,"clann","issue, offspring, progeny",the immediate descendants of a person
+80,oewn-07571428-n,n,noun.food,bridging,2,"biad","food, solid food",any solid substance (as opposed to liquid) that is used as a source of nourishment
+81,oewn-06301417-n,n,noun.communication,bridging,2,"forgnúis, delb, cruth, fiugair","form, signifier, descriptor, word form",the phonological or orthographic sound or appearance of a word that can be used to describe or identify something
+82,oewn-06302098-n,n,noun.communication,bridging,2,"*bríathar fedma","function word, closed-class word",a word that is uninflected and serves a grammatical function but has little identifiable meaning
+83,oewn-06314530-n,n,noun.communication,bridging,2,"ainmm",substantive,any word or group of words functioning as a noun
+84,oewn-06322324-n,n,noun.communication,bridging,2,"camm, camthuisel","oblique, oblique case",any grammatical case other than the nominative
+85,oewn-06735202-n,n,noun.communication,bridging,2,"insce, rád",statement,a message that is stated or declared; a communication (oral or written) setting forth particulars or facts etc
 86,oewn-07123727-n,n,noun.communication,bridging,2,"",auditory communication,communication that relies on hearing
 87,oewn-05677778-n,n,noun.cognition,bridging,2,"","state of mind, cognitive state",the state of a person's cognitive processes
 88,oewn-05709328-n,n,noun.cognition,bridging,2,"","operation, process, cognitive operation, cognitive process, mental process",(psychology) the performance of some composite cognitive activity; an operation that affects mental contents
@@ -72,9 +72,9 @@ rank,synset_id,pos,lexfile,category,link_count,old_irish_lemmas,english_lemmas,d
 90,oewn-05857567-n,n,noun.cognition,bridging,2,"","property, dimension, attribute",a construct whereby objects or individuals can be distinguished
 91,oewn-00109468-v,v,verb.change,bridging,2,"",change,undergo a change; become different in essence; losing one's or its original nature
 92,oewn-00169459-v,v,verb.change,bridging,2,"",change magnitude,change in size or magnitude
-93,oewn-15071467-n,n,noun.substance,bridging,2,"",solid,matter that is solid at room temperature and pressure
-94,oewn-08637636-n,n,noun.location,bridging,2,"",point,the precise location of something; a spatially limited location
-95,oewn-08648560-n,n,noun.location,bridging,2,"",region,a large indefinite location on the surface of the Earth
+93,oewn-15071467-n,n,noun.substance,bridging,2,"adbar dúr",solid,matter that is solid at room temperature and pressure
+94,oewn-08637636-n,n,noun.location,bridging,2,"áitt, loc",point,the precise location of something; a spatially limited location
+95,oewn-08648560-n,n,noun.location,bridging,2,"leth, taeb, bruig",region,a large indefinite location on the surface of the Earth
 96,oewn-13825132-n,n,noun.relation,bridging,2,"",voice,(linguistics) the grammatical relation (active or passive) of the grammatical subject of a verb to the action that the verb denotes
 97,oewn-13943868-n,n,noun.state,bridging,2,"","condition, status",a state at a particular time
 98,oewn-14396987-n,n,noun.state,bridging,2,"","psychological condition, psychological state, mental condition, mental state",(psychology) a mental condition in which the qualities of a state are relatively constant even though the state itself may be dynamic
