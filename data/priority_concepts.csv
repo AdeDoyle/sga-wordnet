@@ -50,32 +50,32 @@ rank,synset_id,pos,lexfile,category,link_count,old_irish_lemmas,english_lemmas,d
 68,oewn-06331794-n,n,noun.communication,bridging,3,"","qualifier, modifier",a content word that qualifies the meaning of a noun or verb
 69,oewn-06332695-n,n,noun.communication,bridging,3,"adiacht",adjective,a word that expresses an attribute of something
 70,oewn-06334605-n,n,noun.communication,bridging,3,"dobríathar",adverb,a word that modifies something other than a noun
-71,oewn-06611268-n,n,noun.communication,bridging,3,"argamaint","content, substance, subject matter, message",content communicating a message; what something is about
+71,oewn-06611268-n,n,noun.communication,bridging,3,"argumeint","content, substance, subject matter, message",content communicating a message; what something is about
 72,oewn-07125755-n,n,noun.communication,bridging,3,"fogur","phone, sound, speech sound",(phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language
 73,oewn-04623416-n,n,noun.attribute,bridging,2,"cáil",trait,a distinguishing feature of your personal nature
 74,oewn-05097645-n,n,noun.attribute,bridging,2,"méit",magnitude,the property of relative size or extent (whether large or small)
 75,oewn-05115065-n,n,noun.attribute,bridging,2,"méit",amount,the relative magnitude of something with reference to a criterion
-76,oewn-00576778-n,n,noun.act,bridging,2,"opar, saethar, gnímrad, lubair",work,activity directed toward making or doing something
-77,oewn-09786620-n,n,noun.person,bridging,2,"gníthid, gnía, oibrid, saethraige","doer, actor, worker",a person who acts and gets things done
-78,oewn-09937706-n,n,noun.person,bridging,2,"lenab, noídiu","child, kid",a human offspring (son or daughter) of any age
-79,oewn-10393697-n,n,noun.person,bridging,2,"clann","issue, offspring, progeny",the immediate descendants of a person
+76,oewn-00576778-n,n,noun.act,bridging,2,"opar, saíthar, gnímrad, lubair",work,activity directed toward making or doing something
+77,oewn-09786620-n,n,noun.person,bridging,2,"gnía, gníthid","doer, actor, worker",a person who acts and gets things done
+78,oewn-09937706-n,n,noun.person,bridging,2,"lenab, noídiu, tuistiu","child, kid",a human offspring (son or daughter) of any age
+79,oewn-10393697-n,n,noun.person,bridging,2,"clann, ciniud","issue, offspring, progeny",the immediate descendants of a person
 80,oewn-07571428-n,n,noun.food,bridging,2,"biad","food, solid food",any solid substance (as opposed to liquid) that is used as a source of nourishment
 81,oewn-06301417-n,n,noun.communication,bridging,2,"forgnúis, delb, cruth, figair","form, signifier, descriptor, word form",the phonological or orthographic sound or appearance of a word that can be used to describe or identify something
 82,oewn-06302098-n,n,noun.communication,bridging,2,"*bríathar fedma","function word, closed-class word",a word that is uninflected and serves a grammatical function but has little identifiable meaning
-83,oewn-06314530-n,n,noun.communication,bridging,2,"ainmm",substantive,any word or group of words functioning as a noun
+83,oewn-06314530-n,n,noun.communication,bridging,2,"ainm",substantive,any word or group of words functioning as a noun
 84,oewn-06322324-n,n,noun.communication,bridging,2,"camm, camthuisel","oblique, oblique case",any grammatical case other than the nominative
 85,oewn-06735202-n,n,noun.communication,bridging,2,"insce, rád",statement,a message that is stated or declared; a communication (oral or written) setting forth particulars or facts etc
 86,oewn-07123727-n,n,noun.communication,bridging,2,"medar",auditory communication,communication that relies on hearing
-87,oewn-05677778-n,n,noun.cognition,bridging,2,"menma, bal menman, alt menman","state of mind, cognitive state",the state of a person's cognitive processes
+87,oewn-05677778-n,n,noun.cognition,bridging,2,"menma, *bal menman, *alt menman","state of mind, cognitive state",the state of a person's cognitive processes
 88,oewn-05709328-n,n,noun.cognition,bridging,2,"oipred, airopair, *conar, *airopair menman","operation, process, cognitive operation, cognitive process, mental process",(psychology) the performance of some composite cognitive activity; an operation that affects mental contents
-89,oewn-05824413-n,n,noun.cognition,bridging,2,"eulas, fius",information,knowledge acquired through study or experience or instruction
+89,oewn-05824413-n,n,noun.cognition,bridging,2,"eulas, fis",information,knowledge acquired through study or experience or instruction
 90,oewn-05857567-n,n,noun.cognition,bridging,2,"cáil, aiste","property, dimension, attribute",a construct whereby objects or individuals can be distinguished
-91,oewn-00109468-v,v,verb.change,bridging,2,"con-oscaigi, soid",change,undergo a change; become different in essence; losing one's or its original nature
-92,oewn-00169459-v,v,verb.change,bridging,2,"*méit a cumscugud, *méit a ṡoud",change magnitude,change in size or magnitude
+91,oewn-00109468-v,v,verb.change,bridging,2,"conoscaigi, sóid",change,undergo a change; become different in essence; losing one's or its original nature
+92,oewn-00169459-v,v,verb.change,bridging,2,"*méit a cumscugud, *méit a soud",change magnitude,change in size or magnitude
 93,oewn-15071467-n,n,noun.substance,bridging,2,"*adbar dúr",solid,matter that is solid at room temperature and pressure
 94,oewn-08637636-n,n,noun.location,bridging,2,"áitt, loc",point,the precise location of something; a spatially limited location
-95,oewn-08648560-n,n,noun.location,bridging,2,"leth, taeb, bruig",region,a large indefinite location on the surface of the Earth
+95,oewn-08648560-n,n,noun.location,bridging,2,"leth, tóib, bruig",region,a large indefinite location on the surface of the Earth
 96,oewn-13825132-n,n,noun.relation,bridging,2,"",voice,(linguistics) the grammatical relation (active or passive) of the grammatical subject of a verb to the action that the verb denotes
 97,oewn-13943868-n,n,noun.state,bridging,2,"bal, alt","condition, status",a state at a particular time
 98,oewn-14396987-n,n,noun.state,bridging,2,"*bal ingnai, *bal menman, *alt ingnai, *alt menman","psychological condition, psychological state, mental condition, mental state",(psychology) a mental condition in which the qualities of a state are relatively constant even though the state itself may be dynamic
-99,oewn-07955013-n,n,noun.group,bridging,2,"sreith",arrangement,an orderly grouping (of things or persons) considered as a unit; the result of arranging
+99,oewn-07955013-n,n,noun.group,bridging,2,"sreth",arrangement,an orderly grouping (of things or persons) considered as a unit; the result of arranging
