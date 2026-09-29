@@ -1,58 +1,58 @@
 Lemma,Sense Key,Definition,Frequency,Correct Translation?,Correct Definition?,Notes
-sechithir,comply%2:41:00::,"act in accordance with someone's rules, commands, or wishes",2,"follow, pursue",0,"It can mean 'follow' or 'pursue' in a figurative sense as well as literal, but I wouldn't say it means to 'comply'."
-is,be%2:42:06::,be identical to; be someone or something,15,,1,"This is the copula, but its definition is identical to the substantive verb. Technically the definition is correct, but far too limited."
-attá,be%2:42:06::,be identical to; be someone or something,2,,1,"This is the substantive verb. It's definition here seems a bit limited."
-insamlathar,imitate%2:36:00::,reproduce someone's behavior or looks,2,,1,
-dliged,rule%1:09:00::,a principle or condition that customarily governs behavior,5,"law",1,"The definition seems technically correct, but the sense key 'rule' is an extension of the primary meaning. It means 'law' in the legal sense."
-ríagol,rule%1:09:00::,a principle or condition that customarily governs behavior,2,,1,
-cenélae,kind%1:09:00::,a category of things distinguished by some common characteristic or quality,11,,1,
-cenél,kind%1:09:00::,a category of things distinguished by some common characteristic or quality,3,"race, nation, kindred, kind, sort, type, grammatical gender",1,"This is an extended meaning. More commonly, it means 'race', 'tribe' or 'nation' with the implication being that the group have a shared ancestor. The meaning 'kind' or 'sort' is based on this having something in common."
-gné,kind%1:09:00::,a category of things distinguished by some common characteristic or quality,3,,1,"This definition is correct, but a bit broad. It usually means something more specific, like 'species'."
-mrechtrad,kind%1:09:00::,a category of things distinguished by some common characteristic or quality,2,"variety, diversity",0,
-indas,kind%1:09:00::,a category of things distinguished by some common characteristic or quality,2,,1,
-etargne,cognition%1:03:00::,the psychological result of perception and learning and reasoning,9,"knowledge, familiarity",1,"Technically correct, but as an extended meaning. More usually this just means 'knowledge' of something, which does not need to result from learning or reasoning."
-fis,cognition%1:03:00::,the psychological result of perception and learning and reasoning,3,"knowledge, information",0,"Maybe I'm being too stringent here, but I don't think 'fis' can be the psychological result of perception, learning or reasoning. It can mean the act of learning or ascertaining knowledge, but more typically means simply 'knowledge' or 'information'."
-días,couple%1:23:00::,two items of the same kind,2,,1,
-fer,man%1:18:00::,an adult person who is male (as opposed to a woman),8,,1,
-duine,man%1:18:00::,an adult person who is male (as opposed to a woman),5,"person",0,"'duine' does not necessarily imply male."
-fisid,man%1:18:00::,an adult person who is male (as opposed to a woman),3,"knowledgeable person, learned person, well informed person",0,"While, during the Old Irish period, a formally educated person may have been disproportionately likely to be male, the term itself does not necessarily exclude the possibility of being applied to a female."
-becc,small%3:00:00::,limited or below average in number or quantity or magnitude or extent,8,,1,
-inducbál,glory%1:26:00::,a state of high honor,3,,1,
-már,greater%3:00:00::,greater in size or importance or degree,6,"great, big, large",1,"While the definition is more-or-less correct, the key sense 'greater' seems to suggest that this is a comparative form, when it is in fact just the base form of the adjective meaning ‘great’. The definition would be more accurate if it read ‘great in size or importance or degree’ instead."
-lebor,book%1:10:00::,a written work or composition that has been published (printed on pages bound together),4,,1,
-is,exist%2:42:00::,"have an existence, be extant",2,,0,"This again is the copula. The meaning 'exist' may be possible in some senses, but I think this would more commonly be expressed in Old Irish with the substantive verb. Stifter writes 'in cases where existence, presence, a condition or a state is meant, the copula cannot be used: statements like “I think, therefore I am” … call for the use of the substantive verb' (Sengoidelc, p. 119)."
-cummasc,confusion%1:26:01::,disorder resulting from a failure to behave predictably,2,"mixing, commingling, mixture",0,"This is idiomatically translated as 'confusion' once in Sg. but allowing that definition here strikes me like saying 'mixed' is synonymous with 'confused' as a result of its use in the phrase 'mixed up'."
-doecmaing,happen%2:30:00::,come to pass,3,,1,
-dotét,happen%2:30:00::,come to pass,2,"come",0,"maybe idiomatically it can be translated 'happens' in certain circumstances, but its primary meaning is certainly 'comes'."
-accomol,connection%1:24:00::,a relation between things or events (as in the case of one causing the other or sharing features with it),4,"joining, junction, meeting, union, conjunction",1,
-randatu,part%1:24:00::,something determined in relation to something that includes it,2,,0,"I don't think 'part' is entirely wrong here, as this word is derived from 'rann' = 'part'. However, 'randatu' seems to be a very technical grammatical term meaning something like 'particularity' or 'the quality of being related to a particular part-of-speech'."
-dliged,law%1:09:01::,a generalization that describes recurring facts or events in nature,4,,0,"No, it means 'law' in the legal sense. I think this definition is anachronistic."
-imḟognam,construction%1:04:00::,the act of constructing something,8,"grammatical construction, linguistic construction",1,"It only seems to be attested with the meaning 'construction' in the sense 'a grammatical construction'"
-menma,mind%1:09:00::,"that which is responsible for one's thoughts, feelings, and conscious brain functions; the seat of the faculty of reason",7,,1,
-cíall,meaning%1:10:00::,the message that is intended or expressed or signified,13,"sense",1,"When referring to words or text this definition is possible as an extension of its primary meaning, i.e. 'sense'"
-intliucht,meaning%1:10:00::,the message that is intended or expressed or signified,7,,1,
-slond,meaning%1:10:00::,the message that is intended or expressed or signified,4,"expressing, mentioning, indicating, signifying",0,"It is a verbal noun which means 'expressing'."
-cenélach,general%3:00:00::,applying to all or most members of a category or group,3,"racial, of a particular race, general, universal",1,
-gnúis,species%1:14:00::,(biology) taxonomic group whose members can interbreed,3,"kind, form, species",1,"The definition here is far too modern to be appropriate, but the meaning is roughly correct."
-guth,word%1:10:00::,a unit of language that native speakers can identify,3,"voice, sound, word, vowel",1,
-bríathar,word%1:10:00::,a unit of language that native speakers can identify,2,"word, verb",1,
-litred,letter%1:10:01::,the conventional characters of the alphabet used to represent speech,2,"spelling, lettering",0,
-liter,letter%1:10:00::,a written message addressed to a person or organization,7,,1,"It can mean 'letter' in the sense described here, i.e. an epistle, but more typically it means a letter of an alphabet."
-gním,act%1:03:00::,something that people do or cause to happen,6,"deed, act, activity, work",1,
-corp,body%1:08:00::,"the entire physical structure of an organism (an animal, plant, or human being)",9,,1,
-dasian,breathing%1:04:00::,the bodily process of inhalation and exhalation; the process of taking in oxygen from inhaled air and releasing carbon dioxide by exhalation,4,"rough breathing, spiritus asper",0,"As above, this is a technical grammatical term meaning 'rough breathing' as per the Greek spiritus asper. It cannot just mean 'breathing'."
-rann,speech%1:10:00::,(language) communication by word of mouth,23,"part",0,"It means 'part' but it's used in the term 'rann insce' = 'part-of-speech', hence the confusion here."
-randatu,speech%1:10:00::,(language) communication by word of mouth,2,,0,"See above. 'randatu' seems to be a technical grammatical term meaning something like 'particularity' or 'the quality of being related to a particular part-of-speech'."
-cumang,power%1:07:00::,possession of controlling influence,2,"power, ability, strength",1,
-fogur,phone%1:10:00::,(phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language,10,"sound",1,"The definition may be anachronistic, but is roughly correct."
-son,phone%1:10:00::,(phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language,4,"sound, word, name",1,"The definition may be anachronistic, but is roughly correct."
-guth,phone%1:10:00::,(phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language,4,"voice, sound, word, vowel",1,"The definition may be anachronistic, but is roughly correct."
-tórand,figure%1:25:00::,a combination of points and lines and planes that form a visible palpable shape,2,"figure, shape, signification, representation",1,
-méit,measure%1:03:00::,how much there is or how many there are of something that you can quantify,4,"amount, measure, magnitude",1,
-flesc,throw%1:11:00::,the maximum movement available to a pivoted or reciprocating piece by a cam,2,"stroke, line",0,
-delb,form%1:10:00::,the phonological or orthographic sound or appearance of a word that can be used to describe or identify something,3,"form, shape, figure, appearance, shaping, fashioning, arranging",1,
-attá,be%2:42:03::,"have the quality of being; (copula, used with an adjective or a predicate noun)",6,,0,"The definition is wrong because this is the substantive verb, not the copula. However, 'have the quality of being' seems correct."
-doella,decline%2:32:01::,"inflect for number, gender, case, etc.",4,"turn aside, deviate, bend, go astray, degenerate, decline",1,"It apparently only means 'decline' in the grammatical sense, however, its primary meaning is to 'turn away' or 'deviate' more generally."
+sechithir,comply%2:41:00::,"act in accordance with someone's rules, commands, or wishes",2,0,0,"It can mean 'follow' or 'pursue' in a figurative sense as well as literal, but I wouldn't say it means to 'comply'."
+is,be%2:42:06::,be identical to; be someone or something,15,1,1,"This is the copula, but its definition is identical to the substantive verb. Technically the definition is correct, but far too limited."
+attá,be%2:42:06::,be identical to; be someone or something,2,1,1,"This is the substantive verb. It's definition here seems a bit limited."
+insamlathar,imitate%2:36:00::,reproduce someone's behavior or looks,2,1,1,
+dliged,rule%1:09:00::,a principle or condition that customarily governs behavior,5,0,1,"The definition seems technically correct, but the translation 'rule' is an extension of the primary meaning. It means 'law' in the legal sense."
+ríagol,rule%1:09:00::,a principle or condition that customarily governs behavior,2,1,1,
+cenélae,kind%1:09:00::,a category of things distinguished by some common characteristic or quality,11,1,1,
+cenél,kind%1:09:00::,a category of things distinguished by some common characteristic or quality,3,1,1,"It can have any of the translations 'race', 'nation', 'kindred', 'kind', 'sort', 'type', or 'grammatical gender'."
+gné,kind%1:09:00::,a category of things distinguished by some common characteristic or quality,3,1,1,"This translation is correct, but a bit broad. It usually means something more specific, like 'species'."
+mrechtrad,kind%1:09:00::,a category of things distinguished by some common characteristic or quality,2,0,0,"The translation should be 'variety, diversity'."
+indas,kind%1:09:00::,a category of things distinguished by some common characteristic or quality,2,1,1,
+etargne,cognition%1:03:00::,the psychological result of perception and learning and reasoning,9,1,1,"The translation and definition are echnically correct, but as an extended meaning. Ther term means 'knowledge' or 'familiarity' of something, which does not need to result from learning or reasoning."
+fis,cognition%1:03:00::,the psychological result of perception and learning and reasoning,3,0,0,"Maybe I'm being too stringent here, but I don't think 'fis' can be the psychological result of perception, learning or reasoning. It can mean the act of learning or ascertaining knowledge, but more typically means simply 'knowledge' or 'information'."
+días,couple%1:23:00::,two items of the same kind,2,1,1,
+fer,man%1:18:00::,an adult person who is male (as opposed to a woman),8,1,1,
+duine,man%1:18:00::,an adult person who is male (as opposed to a woman),5,0,0,"'duine' does not necessarily imply male. It means 'person'."
+fisid,man%1:18:00::,an adult person who is male (as opposed to a woman),3,0,0,"The translation should be something like 'knowledgeable person', 'learned person' or 'well informed person'. While, during the Old Irish period, a formally educated person may have been disproportionately likely to be male, the term itself does not necessarily exclude the possibility of being applied to a female."
+becc,small%3:00:00::,limited or below average in number or quantity or magnitude or extent,8,1,1,
+inducbál,glory%1:26:00::,a state of high honor,3,1,1,
+már,greater%3:00:00::,greater in size or importance or degree,6,0,0,"While the definition is more-or-less correct, the key sense 'greater' seems to suggest that this is a comparative form, when it is in fact just the base form of the adjective meaning 'great', 'big' or 'large'. The definition would be more accurate if it read ‘great in size or importance or degree’ instead."
+lebor,book%1:10:00::,a written work or composition that has been published (printed on pages bound together),4,1,1,
+is,exist%2:42:00::,"have an existence, be extant",2,0,0,"This again is the copula. The meaning 'exist' may be possible in some senses, but I think this would more commonly be expressed in Old Irish with the substantive verb. Stifter writes 'in cases where existence, presence, a condition or a state is meant, the copula cannot be used: statements like “I think, therefore I am” … call for the use of the substantive verb' (Sengoidelc, p. 119)."
+cummasc,confusion%1:26:01::,disorder resulting from a failure to behave predictably,2,0,0,"The correct translation should be 'mixing', 'commingling' or 'mixture'. The term is idiomatically translated as 'confusion' once in Sg. but allowing that definition here strikes me like saying 'mixed' is synonymous with 'confused' as a result of its use in the phrase 'mixed up'."
+doecmaing,happen%2:30:00::,come to pass,3,1,1,
+dotét,happen%2:30:00::,come to pass,2,0,0,"The translation should be 'to come'. Maybe idiomatically it can be translated 'happens' in certain circumstances, but that's really not what the verb means."
+accomol,connection%1:24:00::,a relation between things or events (as in the case of one causing the other or sharing features with it),4,1,1,"It can be translated 'joining', 'junction', 'meeting', 'union' or 'conjunction'."
+randatu,part%1:24:00::,something determined in relation to something that includes it,2,0,0,"I don't think 'part' is entirely wrong here, as this word is derived from 'rann' = 'part'. However, 'randatu' seems to be a very technical grammatical term meaning something like 'particularity' or 'the quality of being related to a particular part-of-speech'."
+dliged,law%1:09:01::,a generalization that describes recurring facts or events in nature,4,1,0,"It means 'law' in the legal sense. I think this definition is anachronistic."
+imḟognam,construction%1:04:00::,the act of constructing something,8,1,0,"It only seems to be attested with the meaning 'construction' in the sense 'a grammatical construction'."
+menma,mind%1:09:00::,"that which is responsible for one's thoughts, feelings, and conscious brain functions; the seat of the faculty of reason",7,1,1,
+cíall,meaning%1:10:00::,the message that is intended or expressed or signified,13,1,1,"The real translation shoudl be 'sense', though this translation is possible when referring to words or text as an extension of this primary meaning."
+intliucht,meaning%1:10:00::,the message that is intended or expressed or signified,7,1,1,
+slond,meaning%1:10:00::,the message that is intended or expressed or signified,4,0,0,"It is a verbal noun which means 'expressing', 'mentioning', 'indicating' or 'signifying'."
+cenélach,general%3:00:00::,applying to all or most members of a category or group,3,1,1,"It can be translated 'racial', 'of a particular race', 'general' or 'universal'."
+gnúis,species%1:14:00::,(biology) taxonomic group whose members can interbreed,3,1,0,"The definition here seems far too modern to be appropriate, even if it's on the right track. The translation is roughly correct, though. It can mean 'kind', 'form' or 'species'."
+guth,word%1:10:00::,a unit of language that native speakers can identify,3,1,1,"It can be translated 'voice', 'sound', 'word' or 'vowel'."
+bríathar,word%1:10:00::,a unit of language that native speakers can identify,2,1,1,"It can be translated 'word', or 'verb'."
+litred,letter%1:10:01::,the conventional characters of the alphabet used to represent speech,2,0,0,"It should be translated 'spelling' or 'lettering'."
+liter,letter%1:10:00::,a written message addressed to a person or organization,7,1,1,"It can mean 'letter' in the sense described here, i.e. an epistle, but more typically it means a letter of an alphabet."
+gním,act%1:03:00::,something that people do or cause to happen,6,1,1,"It can be translated 'deed', 'act', 'activity' or 'work'."
+corp,body%1:08:00::,"the entire physical structure of an organism (an animal, plant, or human being)",9,1,1,
+dasian,breathing%1:04:00::,the bodily process of inhalation and exhalation; the process of taking in oxygen from inhaled air and releasing carbon dioxide by exhalation,4,0,0,"This is a technical grammatical term meaning 'rough breathing' or 'spiritus asper' as per the Greek. It cannot just mean 'breathing'."
+rann,speech%1:10:00::,(language) communication by word of mouth,23,0,0,"It means 'part' but it's used in the term 'rann insce' = 'part-of-speech', hence the confusion here."
+randatu,speech%1:10:00::,(language) communication by word of mouth,2,0,0,"'randatu' seems to be a technical grammatical term meaning something like 'particularity' or 'the quality of being related to a particular part-of-speech'."
+cumang,power%1:07:00::,possession of controlling influence,2,1,1,"It can be translated 'power', 'ability' or 'strength'."
+fogur,phone%1:10:00::,(phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language,10,1,1,"The translation and definition both seem to be anachronistic, but are roughly correct. A better translation would be 'sound'."
+son,phone%1:10:00::,(phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language,4,1,1,"The translation and definition both seem to be anachronistic, but are roughly correct. A better translation would be 'sound', 'word' or 'name'."
+guth,phone%1:10:00::,(phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language,4,1,1,"The translation and definition both seem to be anachronistic, but are roughly correct. A better translation would be 'voice', 'sound', 'word' or 'vowel'."
+tórand,figure%1:25:00::,a combination of points and lines and planes that form a visible palpable shape,2,1,1,"It can be translated 'figure', 'shape', 'signification' or 'representation'."
+méit,measure%1:03:00::,how much there is or how many there are of something that you can quantify,4,1,1,"It can be translated 'amount', 'measure' or 'magnitude'."
+flesc,throw%1:11:00::,the maximum movement available to a pivoted or reciprocating piece by a cam,2,0,0,"It should be translated 'stroke' or 'line'."
+delb,form%1:10:00::,the phonological or orthographic sound or appearance of a word that can be used to describe or identify something,3,1,1,"It can be translated 'form', 'shape', 'figure', 'appearance', 'shaping', 'fashioning' or 'arranging'."
+attá,be%2:42:03::,"have the quality of being; (copula, used with an adjective or a predicate noun)",6,1,0,"The definition is wrong because this is the substantive verb, and the definition states it is the copula. However, 'have the quality of being' seems correct."
+doella,decline%2:32:01::,"inflect for number, gender, case, etc.",4,1,1,"It apparently only means 'decline' in the grammatical sense, however, its primary meaning is to 'turn aside', 'deviate', 'bend', 'go astray' or 'degenerate'."
 ainmmnigud,appellation%1:10:00::,identifying word or words by which someone or something is called and classified or distinguished from others,4,"designation, denomination, naming",1,
 dano,indeed%4:02:03::,in truth (often tends to intensify),4,"therefore, then, accordingly",1,"A possible translation is 'indeed', but it's not the most common. Many translations are possible for this kind of word, depending on the context."
 amein,thus%4:02:01::,in the way indicated,3,,1,
