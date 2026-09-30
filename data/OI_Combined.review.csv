@@ -198,31 +198,31 @@ frecrae,answer%1:10:01::,a statement (either spoken or written) that is made to 
 féle,modesty%1:07:00::,freedom from vanity or conceit,2,1,1,
 bés,character%1:07:01::,the inherent complex of attributes that determines a persons moral and ethical actions and reactions,2,0,0,"It can be translated 'habit', 'custom', 'practice', or 'manner'."
 cíall,sense%1:10:00::,the meaning of a word or expression; the way in which a word or expression or situation can be interpreted,9,1,1,
-intliucht,sense%1:10:00::,the meaning of a word or expression; the way in which a word or expression or situation can be interpreted,4,,1,
-ciall,sense%1:10:00::,the meaning of a word or expression; the way in which a word or expression or situation can be interpreted,3,,,
-inne,sense%1:10:00::,the meaning of a word or expression; the way in which a word or expression or situation can be interpreted,2,,,
-articol,article%1:10:00::,nonfictional prose forming an independent part of a publication,2,,,
-már,much%3:00:00::,(quantifier used with mass nouns) great in quantity or degree or extent,3,"great, big, large",1,
-maith,better%3:00:00::,(comparative of ‘good’) superior to another (of the same class or set or kind) in excellence or quality or desirability or suitability; more highly skilled than another,7,,,
-recht,law%1:14:00::,the collection of rules imposed by authority,18,,1,
-dliged,law%1:14:00::,the collection of rules imposed by authority,8,,1,
-inne,quality%1:07:00::,an essential and distinguishing attribute of something or someone,15,,,
-césad,passion%1:12:00::,a strong feeling or emotion,18,,,
-adrími,calculate%2:31:03::,judge to be probable,4,,,
-bríathar,verb%1:10:00::,"a content word that denotes an action, occurrence, or state of existence",14,"word, verb",1,
+intliucht,sense%1:10:00::,the meaning of a word or expression; the way in which a word or expression or situation can be interpreted,4,1,1,
+cíall,sense%1:10:00::,the meaning of a word or expression; the way in which a word or expression or situation can be interpreted,3,1,1,"This is a duplicate from above based on a spelling error in the original dataset."
+inne,sense%1:10:00::,the meaning of a word or expression; the way in which a word or expression or situation can be interpreted,2,1,1,
+articol,article%1:10:00::,nonfictional prose forming an independent part of a publication,2,1,0,"It means 'article' in the grammatical sense."
+már,much%3:00:00::,(quantifier used with mass nouns) great in quantity or degree or extent,3,0,1,"It can be translated 'great', 'big' or 'large'."
+maith,better%3:00:00::,(comparative of ‘good’) superior to another (of the same class or set or kind) in excellence or quality or desirability or suitability; more highly skilled than another,7,0,0,"It is not a comparative. It just means 'good'."
+recht,law%1:14:00::,the collection of rules imposed by authority,18,1,1,
+dliged,law%1:14:00::,the collection of rules imposed by authority,8,1,1,
+inne,quality%1:07:00::,an essential and distinguishing attribute of something or someone,15,1,1,
+césad,passion%1:12:00::,a strong feeling or emotion,18,1,0,"It means 'passion' in the sense of 'the Passion of Christ', or otherwise in relation to the passive voice. Not as a strong emotion other than suffering."
+adrími,calculate%2:31:03::,judge to be probable,4,1,0,"It means to 'count' or 'calculate' numbers."
+bríathar,verb%1:10:00::,"a content word that denotes an action, occurrence, or state of existence",14,1,1,"It can be translated 'word', or 'verb'."
 dobeir,frame%2:32:00::,formulate in a particular style or language,4,0,0,"It can be translated 'give', 'place' or 'bring'."
-doacaldmach,appellative%3:01:00::,pertaining to or dealing with or used as a common noun,2,,,
-imchomarc,question%1:10:00::,an instance of questioning,2,,,
-maith,good%3:00:01::,having desirable or positive qualities especially those suitable for a thing specified,9,,1,
-droch,bad%3:00:00::,having undesirable or negative qualities,2,,1,
-folad,kernel%1:09:00::,the choicest or most essential or most vital part of some idea or experience,2,"wealth, substance, property, meaning",1,"It's a bit of a stretch, but maybe as an extension of the meaning 'substance'."
+doacaldmach,appellative%3:01:00::,pertaining to or dealing with or used as a common noun,2,1,1,
+imchomarc,question%1:10:00::,an instance of questioning,2,1,1,
+maith,good%3:00:01::,having desirable or positive qualities especially those suitable for a thing specified,9,1,1,
+droch,bad%3:00:00::,having undesirable or negative qualities,2,1,1,
+folad,kernel%1:09:00::,the choicest or most essential or most vital part of some idea or experience,2,0,0,"This can be translated 'wealth', 'substance', 'property' or 'meaning'. 'Kernel' is a bit of a stretch, but maybe as an extension of the meaning 'substance'."
 cíall,sense%1:09:02::,the faculty through which the external world is apprehended,2,1,1,
-díall,declension%1:14:00::,a class of nouns or pronouns or adjectives in Indo-European languages having the same (or very similar) inflectional forms,3,,,
+díall,declension%1:14:00::,a class of nouns or pronouns or adjectives in Indo-European languages having the same (or very similar) inflectional forms,3,1,1,
 comaisndís,juxtaposition%1:04:00::,the act of positioning close together (or side by side),17,1,1,
 dobeir,confer%2:40:00::,present,2,1,1,"It can be translated 'give', 'place' or 'bring'. I guess this is just a fancy way of saying 'give'."
 asbeir,declare%2:32:00::,state emphatically and authoritatively,3,1,1,"It seems odd that three possible translations were found for this verb, but not the most common one, 'says'."
-cathrar,citizen%1:18:00::,a native or naturalized member of a state or other political community,2,,,
-scríbaid,write%2:36:01::,mark or trace words or symbols on a surface,2,,1,
+cathrar,citizen%1:18:00::,a native or naturalized member of a state or other political community,2,1,1,
+scríbaid,write%2:36:01::,mark or trace words or symbols on a surface,2,1,1,
 dechraigidir,differ%2:42:00::,be different,2,,,
 sain,particular%5:00:00:specific:00,unique or specific to a person or thing or category,7,"different, special, peculiar, distinct",1,
 sainredach,particular%5:00:00:specific:00,unique or specific to a person or thing or category,2,,,
@@ -231,7 +231,7 @@ tar éis,place%1:26:01::,a particular situation,4,,,
 loc,place%1:26:01::,a particular situation,2,,,
 muinter,family%1:14:02::,a social unit living together,4,,,
 étig,ugly%3:00:00::,displeasing to the senses,2,,,
-már,great%5:00:01:large:00,relatively large in size or number or extent; larger than others of its kind,2,"great, big, large",1,
+már,great%5:00:01:large:00,relatively large in size or number or extent; larger than others of its kind,2,1,1,"It can be translated 'great', 'big' or 'large'."
 cenélche,generality%1:07:00::,the quality of being general or widespread or having general applicability,3,,,
 adiacht,adjective%3:00:00::,relating to court practice and procedure as opposed to the principles of law,3,,1,
 trén,substantial%5:00:00:essential:00,of or relating to the real nature or essential elements of something,2,,,
@@ -529,11 +529,11 @@ airlam,ready%3:00:00::,completely prepared or in condition for immediate action 
 soiscélae,gospel%1:10:00::,"the four books in the New Testament (Matthew, Mark, Luke, and John) that tell the story of Christ's life and teachings",6,,1,
 olc,evil%1:04:00::,morally objectionable behavior,2,,1,
 dígal,punishment%1:04:00::,"the act of punishing, or the infliction of a penalty",5,,,
-maith,thing%1:04:00::,an action,2,,,
+maith,thing%1:04:00::,an action,2,0,0,"It means 'good'."
 mesrugud,moderation%1:07:00::,quality of being moderate and avoiding extremes,2,,,
 peccad,sin%1:04:00::,an act that is regarded by theologians as a transgression of God's will,4,,1,
 cuimrech,alliance%1:24:00::,a connection based on kinship or marriage or common interest,2,,,
-maith,good%1:07:01::,moral excellence or admirableness,2,,1,
+maith,good%1:07:01::,moral excellence or admirableness,2,1,1,
 pridchid,preach%2:32:02::,deliver a sermon,3,,1,
 forcetlid,teacher%1:18:00::,a person whose occupation is teaching,4,,,
 imdibe,circumcision%1:04:00::,the act of circumcising; surgical removal of the foreskin of males,3,,,
