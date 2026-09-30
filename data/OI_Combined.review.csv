@@ -158,46 +158,46 @@ loor,adequate%5:00:00:sufficient:00,sufficient for the purpose,2,1,1,"It can be 
 búaid,victory%1:11:00::,a successful ending of a struggle or contest,4,1,1,
 oentu,integrity%1:26:00::,an undivided or unbroken completeness or totality with nothing wanting,3,0,1,"I think 'integrity' implies strength or soundness as a result of being whole, whereas this word just represents the concept of 'oneness' and should therefore be translated something like 'unity'."
 ógae,integrity%1:26:00::,an undivided or unbroken completeness or totality with nothing wanting,2,1,1,"It can be translated 'wholeness', 'entirety', 'integrity', 'completeness', 'perfection' or 'chastity'."
-lechdach,liquid%1:10:00::,a frictionless continuant that is not a nasal consonant (especially ‘l’ and ‘r’),2,,1,
-foacomol,supplementation%1:04:00::,the act of supplementing,3,"subjunction",0,"In the grammatical sense."
-dano,then%4:02:00::,subsequently or soon afterward (often used as sentence connectors),4,"therefore, then, accordingly",1,
-didiu,then%4:02:00::,subsequently or soon afterward (often used as sentence connectors),3,"therefore, hence, then, thereupon",1,
-dead,end%1:09:00::,a final part or section,4,,1,
-forcenn,end%1:09:00::,a final part or section,3,,1,
-timorcon,shortening%1:04:00::,act of decreasing in length,2,"shortening, restraining, repression, discipline",1,
-indlach,dieresis%1:10:00::,a diacritical mark (two dots) placed over a vowel to indicate that it does not form a diphthong with an adjacent vowel,2,"cleaving, cleavage, dieresis",1,
-airitiu,premise%1:10:00::,a statement that is assumed to be true and from which a conclusion can be drawn,2,"receiving, accepting",0,
-conoscaigi,change%2:30:01::,cause to change; make different; cause a transformation,7,"moves, changes, shakes, upsets",1,
-dobeir,give%2:40:07::,convey or reveal information,6,"give, place, bring",1,
-íth,pottage%1:13:00::,a stew of vegetables and (sometimes) meat,3,,1,
-aricc,determine%2:32:00::,"establish after a calculation, investigation, experiment, survey, or study",2,"come upon, meet, find, devise, compose, effect, invent",0,
-comṡuidigud,compound_word%1:10:01::,"a word (as anthropology, kilocycle, builder) consisting of any of various combinations of words, combining forms, or affixes.",4,"compounding, mixing, composition, compound",1,"The meaning compound does not necessarily apply to words, but it is used in this way in Sg."
-túas,above%4:02:00::,(in writing) at an earlier place,5,"up, above",1,
-anúas,above%4:02:00::,(in writing) at an earlier place,3,"from above, down",1,"It can rarely mean above"
-dogní,make%2:41:00::,engage in,10,"make, do",1,"This is a weird one. The definition, 'engage in', is correct because the verb can mean 'to do' something, but the sense key is 'make' not 'do'. I'll call it correct, but it seems like it's correct on a technicality."
-gníid,make%2:41:00::,engage in,4,"act, do, make, construct, perform",1,
-díuitius,simplicity%1:07:02::,the quality of being simple or uncompounded,2,,1,
-cuitbedach,absurd%5:00:00:foolish:00,so unreasonable as to invite derision,2,"ridiculous, frivolous, absurd",1,
-dofonaig,wash%2:29:00::,cleanse (one's body) with soap and water,3,"wash, wash away",1,"Not necessarily washing the body."
-folcaid,wash%2:29:00::,cleanse (one's body) with soap and water,2,,1,"Not necessarily washing the body, though usually washing of something specific."
-lía,rock%1:17:01::,a lump or mass of hard consolidated mineral matter,2,"stone, standing stone",1,"It doesn't occur in our corpus with the translation 'rock' though, presumably this is a possible interpretation."
-abgitir,alphabet%1:10:00::,a character set that includes letters and is used to write a language,2,,1,
-comthód,conversion%1:11:00::,an event that results in a transformation,2,"turning, returning, conversion",1,"I think this can only mean conversion in the religious sense, but I can't rule out a broader definition."
-do dodúrig,arouse%2:37:00::,"call forth (emotions, feelings, and responses)",2,"incite, provoke",0,"It is strange that the preverb is repeated for this entry."
-noíbaid,consecrate%2:32:00::,render holy by means of religious rites,2,"sanctify, consecrate",1,
-dogaítha,deceive%2:41:00::,be false to; be dishonest with,2,,1,
-lín,internet%1:06:00::,a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange,2,"number, net",0,"It means 'net' in the sense 'fishing net' not 'internet'."
-ám,verily%4:02:00::,in truth; certainly,2,"indeed",1,
-uile,whole%3:00:00::,including all components without exception; being one unit or constituting the full amount or extent or duration; complete,3,,1,
-rofinnadar,know%2:31:01::,be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about,5,"find out, discover, learn, know",1,
+lechdach,liquid%1:10:00::,a frictionless continuant that is not a nasal consonant (especially ‘l’ and ‘r’),2,1,1,
+foacomol,supplementation%1:04:00::,the act of supplementing,3,0,0,"It means 'subjunction', in the grammatical sense."
+dano,then%4:02:00::,subsequently or soon afterward (often used as sentence connectors),4,1,1,"It can be translated 'therefore', 'then' or 'accordingly'."
+didiu,then%4:02:00::,subsequently or soon afterward (often used as sentence connectors),3,1,1,"It can be translated 'therefore', 'hence', 'then' or 'thereupon'."
+dead,end%1:09:00::,a final part or section,4,1,1,
+forcenn,end%1:09:00::,a final part or section,3,1,1,
+timorcon,shortening%1:04:00::,act of decreasing in length,2,1,1,"It can be translated 'shortening', 'restraining', 'repression' or 'discipline'."
+indlach,dieresis%1:10:00::,a diacritical mark (two dots) placed over a vowel to indicate that it does not form a diphthong with an adjacent vowel,2,1,1,"It can be translated 'cleaving', 'cleavage' or, in a grammatical sense, 'dieresis'."
+airitiu,premise%1:10:00::,a statement that is assumed to be true and from which a conclusion can be drawn,2,0,0,"It can be translated 'receiving' or 'accepting'."
+conoscaigi,change%2:30:01::,cause to change; make different; cause a transformation,7,1,1,"It can be translated 'moves', 'changes', 'shakes' or 'upsets'."
+dobeir,give%2:40:07::,convey or reveal information,6,1,1,"It can be translated 'give', 'place' or 'bring'."
+íth,pottage%1:13:00::,a stew of vegetables and (sometimes) meat,3,1,1,
+aricc,determine%2:32:00::,"establish after a calculation, investigation, experiment, survey, or study",2,0,0,"It can be translated 'come upon', 'meet', 'find', 'devise', 'compose', 'effect' or 'invent'."
+comṡuidigud,compound_word%1:10:01::,"a word (as anthropology, kilocycle, builder) consisting of any of various combinations of words, combining forms, or affixes.",4,1,1,"It can be translated 'compounding', 'mixing', 'composition' or 'compound'. It does not necessarily have to refer to a compound word, but it is used in this way in Sg."
+túas,above%4:02:00::,(in writing) at an earlier place,5,1,1,
+anúas,above%4:02:00::,(in writing) at an earlier place,3,0,1,"It can be translated 'from above' or 'down'. In particular contexts, it can rarely be translated 'above', but in isolation this translateion is incorrect."
+dogní,make%2:41:00::,engage in,10,1,1,"This is a weird one. It can be translated either 'make' or 'do'. The definition, 'engage in', is correct because the verb can mean 'to do' something, but the provided translation, which is separately correct, is 'make' not 'do'. I'll call it correct, but it seems like it's correct on a technicality."
+gníid,make%2:41:00::,engage in,4,1,1,"It can be translated 'act', 'do', 'make', 'construct' or 'perform'."
+díuitius,simplicity%1:07:02::,the quality of being simple or uncompounded,2,1,1,
+cuitbedach,absurd%5:00:00:foolish:00,so unreasonable as to invite derision,2,1,1,"It can be translated 'ridiculous', 'frivolous' or 'absurd'."
+dofonaig,wash%2:29:00::,cleanse (one's body) with soap and water,3,1,0,"It does not necessarily washing the body, but 'wash' is correct."
+folcaid,wash%2:29:00::,cleanse (one's body) with soap and water,2,1,0,"It does not necessarily washing the body, though usually washing of something specific."
+lía,rock%1:17:01::,a lump or mass of hard consolidated mineral matter,2,1,1,"It is typically translated 'stone' or 'standing stone'. It doesn't occur in our corpus with the translation 'rock' though, presumably this is a possible interpretation."
+abgitir,alphabet%1:10:00::,a character set that includes letters and is used to write a language,2,1,1,
+comthód,conversion%1:11:00::,an event that results in a transformation,2,1,1,"It can be translated 'turning', 'returning' or 'conversion'. I think this can only mean conversion in the religious sense, but I can't rule out a broader definition."
+do dodúrig,arouse%2:37:00::,"call forth (emotions, feelings, and responses)",2,1,1,"It is strange that the preverb is repeated for this entry. It can be translated 'incite' or 'provoke'."
+noíbaid,consecrate%2:32:00::,render holy by means of religious rites,2,1,1,"It can be translated 'sanctify' or 'consecrate'."
+dogaítha,deceive%2:41:00::,be false to; be dishonest with,2,1,1,
+lín,internet%1:06:00::,a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange,2,0,0,"While it can be translated 'number' or 'net', it means 'net' in the sense 'fishing net' not 'internet'."
+ám,verily%4:02:00::,in truth; certainly,2,1,1,"It is typically translated 'indeed'."
+uile,whole%3:00:00::,including all components without exception; being one unit or constituting the full amount or extent or duration; complete,3,1,1,
+rofinnadar,know%2:31:01::,be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about,5,1,1,"It can be translated 'find out', 'discover', 'learn' or 'know'."
 mucc,hog%1:05:00::,domestic swine,3,1,0,"It means 'pig' or 'sow' or 'boar', so 'hog' is close enough. It can refer to wild pigs, though, so the definition is incorrect."
-com aisndís,apposition%1:24:00::,a grammatical relation between a word and a noun phrase that follows,2,,,
+com aisndís,apposition%1:24:00::,a grammatical relation between a word and a noun phrase that follows,2,1,1,"It's strange that there's spacing in this lemma. It's actually repeated below with no spacing."
 sluindid,denote%2:32:01::,be a sign or indication of,3,1,1,"It means to 'express', 'signify', 'declare, 'mention', 'describe' or 'name', so 'denote' seems like a reasonable extension of 'signify'."
-aimser,time%1:28:05::,a period of time considered as a resource under your control and sufficient to accomplish something,3,,1,
-frecrae,answer%1:10:01::,a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation,6,,,
-féle,modesty%1:07:00::,freedom from vanity or conceit,2,,,
-bés,character%1:07:01::,the inherent complex of attributes that determines a persons moral and ethical actions and reactions,2,,,
-cíall,sense%1:10:00::,the meaning of a word or expression; the way in which a word or expression or situation can be interpreted,9,"sense",1,
+aimser,time%1:28:05::,a period of time considered as a resource under your control and sufficient to accomplish something,3,1,1,
+frecrae,answer%1:10:01::,a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation,6,1,1,
+féle,modesty%1:07:00::,freedom from vanity or conceit,2,1,1,
+bés,character%1:07:01::,the inherent complex of attributes that determines a persons moral and ethical actions and reactions,2,0,0,"It can be translated 'habit', 'custom', 'practice', or 'manner'."
+cíall,sense%1:10:00::,the meaning of a word or expression; the way in which a word or expression or situation can be interpreted,9,1,1,
 intliucht,sense%1:10:00::,the meaning of a word or expression; the way in which a word or expression or situation can be interpreted,4,,1,
 ciall,sense%1:10:00::,the meaning of a word or expression; the way in which a word or expression or situation can be interpreted,3,,,
 inne,sense%1:10:00::,the meaning of a word or expression; the way in which a word or expression or situation can be interpreted,2,,,
@@ -210,16 +210,16 @@ inne,quality%1:07:00::,an essential and distinguishing attribute of something or
 césad,passion%1:12:00::,a strong feeling or emotion,18,,,
 adrími,calculate%2:31:03::,judge to be probable,4,,,
 bríathar,verb%1:10:00::,"a content word that denotes an action, occurrence, or state of existence",14,"word, verb",1,
-dobeir,frame%2:32:00::,formulate in a particular style or language,4,"give, place, bring",0,
+dobeir,frame%2:32:00::,formulate in a particular style or language,4,0,0,"It can be translated 'give', 'place' or 'bring'."
 doacaldmach,appellative%3:01:00::,pertaining to or dealing with or used as a common noun,2,,,
 imchomarc,question%1:10:00::,an instance of questioning,2,,,
 maith,good%3:00:01::,having desirable or positive qualities especially those suitable for a thing specified,9,,1,
 droch,bad%3:00:00::,having undesirable or negative qualities,2,,1,
 folad,kernel%1:09:00::,the choicest or most essential or most vital part of some idea or experience,2,"wealth, substance, property, meaning",1,"It's a bit of a stretch, but maybe as an extension of the meaning 'substance'."
-cíall,sense%1:09:02::,the faculty through which the external world is apprehended,2,"sense",1,
+cíall,sense%1:09:02::,the faculty through which the external world is apprehended,2,1,1,
 díall,declension%1:14:00::,a class of nouns or pronouns or adjectives in Indo-European languages having the same (or very similar) inflectional forms,3,,,
-comaisndís,juxtaposition%1:04:00::,the act of positioning close together (or side by side),17,,,
-dobeir,confer%2:40:00::,present,2,"give, place, bring",1,"I guess this is just a fancy way of saying 'give'."
+comaisndís,juxtaposition%1:04:00::,the act of positioning close together (or side by side),17,1,1,
+dobeir,confer%2:40:00::,present,2,1,1,"It can be translated 'give', 'place' or 'bring'. I guess this is just a fancy way of saying 'give'."
 asbeir,declare%2:32:00::,state emphatically and authoritatively,3,1,1,"It seems odd that three possible translations were found for this verb, but not the most common one, 'says'."
 cathrar,citizen%1:18:00::,a native or naturalized member of a state or other political community,2,,,
 scríbaid,write%2:36:01::,mark or trace words or symbols on a surface,2,,1,
@@ -248,7 +248,7 @@ attoíbed,attachment%1:04:02::,faithful support for a cause or political party o
 dúildetu,nature%1:07:02::,the essential qualities or characteristics by which something is recognized,2,,,
 conscara,destroy%2:36:00::,"do away with, cause the destruction or undoing of",2,,,
 ainmmnigud,naming%1:10:00::,the verbal act of naming,3,"designation, denomination, naming",1,
-dobeir,yield%2:40:02::,be the cause or source of,3,"give, place, bring",0,"Though I can't entirely rule it out, I can't find an attestation to support this definition."
+dobeir,yield%2:40:02::,be the cause or source of,3,0,0,"It can be translated 'give', 'place' or 'bring'. Though I can't entirely rule it out, I can't find an attestation to support this translation."
 acuit,acute_accent%1:10:00::,a mark placed above a vowel to indicate pronunciation,5,,,
 léigend,reading%1:09:00::,the cognitive process of understanding a written linguistic message,2,,,
 derb,certain%3:00:01::,established beyond doubt or question; definitely known,2,,,
@@ -329,7 +329,7 @@ luib,plant%1:06:01::,buildings for carrying on industrial labor,3,,,
 ith,grain%1:17:00::,a relatively small granular particle of a substance,2,,,
 biáil,ax%1:06:00::,an edge tool with a heavy bladed head mounted across a handle,2,,,
 croicenn,skin%1:08:00::,a natural protective body covering and site of the sense of touch,2,,,
-dogní,make%2:30:00::,give certain properties to something,3,"make, do",0,"I'm not sure how the definition equates to the concept of 'making' something, even in English. I'd have to see the examples this definition is based on."
+dogní,make%2:30:00::,give certain properties to something,3,1,0,"It can be translated either 'make' or 'do'. I'm not sure how the definition equates to the concept of 'making' something, even in English. I'd have to see the examples this definition is based on."
 ingen,nail%1:08:00::,horny plate covering and protecting part of the dorsal surface of the digits,2,1,1,"This is a homonym with the much more common/basic/important term, 'ingen' = 'daughter', 'girl' or 'maiden', which appears to be unrepresented."
 glún,knee%1:08:00::,hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella,2,,1,
 cenn,head%1:08:00::,the upper part of the human body or the front part of the body in animals; contains the face and brains,2,,1,
@@ -456,7 +456,7 @@ aricc,find%2:40:02::,"come upon, as if by accident; meet with",4,"come upon, mee
 aicned,nature%1:18:00::,a causal agent creating and controlling things in the universe,2,,,
 gnúis,form%1:09:00::,a perceptual structure,2,"kind, form, species",1,
 foditiu,endurance%1:07:00::,the power to withstand hardship or stress,2,,,
-dobeir,give%2:32:01::,"convey, as of a compliment, regards, attention, etc.; bestow",3,"give, place, bring",0,"Though I can't entirely rule it out, I can't find an attestation to support this definition."
+dobeir,give%2:32:01::,"convey, as of a compliment, regards, attention, etc.; bestow",3,1,0,"It can be translated 'give', 'place' or 'bring'. Though I can't entirely rule it out, I can't find an attestation to support this definition."
 arfoím,receive%2:40:00::,get something; come into possession of,3,,,
 césad,passion%1:12:02::,a feeling of strong sexual desire,2,,,
 dofuthraccair sa,wish%2:37:02::,"to hope, to desire or to prefer to have something, or to do something",2,,,
@@ -476,7 +476,7 @@ foirbthe,perfect%3:00:00::,being complete of its kind and without defect or blem
 rolaimethar,make_bold%2:41:00::,"take upon oneself; act presumptuously, without permission",2,,,
 foslig,smear%2:35:01::,make a smudge on; soil by smudging,2,,,
 bás,death%1:19:00::,the permanent end of all life functions in an organism or part of an organism,4,,1,
-dobeir,give%2:40:00::,transfer possession of something concrete or abstract to somebody,6,"give, place, bring",1,
+dobeir,give%2:40:00::,transfer possession of something concrete or abstract to somebody,6,1,1,"It can be translated 'give', 'place' or 'bring'."
 dígal,vengeance%1:04:00::,the act of taking revenge (harming someone in retaliation for something harmful that they have done) especially in the next life,3,,,
 soilse,light%1:26:01::,a condition of spiritual awareness; divine illumination,2,,,
 díṡruthigud,derivation%1:22:00::,(descriptive linguistics) the process whereby new words are formed from existing words or bases by affixation,3,,,
@@ -508,7 +508,7 @@ scríbaid,write%2:36:00::,produce a literary work,2,,1,
 etercert,interpretation%1:09:01::,a mental representation of the meaning or significance of something,3,,,
 foillsigthech,demonstrative%3:00:00::,given to or marked by the open expression of emotion,2,,,
 doairngir,promise%2:32:00::,make a promise or commitment,2,,,
-dobeir,understand%2:31:00::,know and comprehend the nature or meaning of,3,"give, place, bring",1,"The perfective form of this verb from a suppletive root, '*to-ucc-' = lit. 'can bring' is the basis of a complete paradigm with the distinct meaning 'understands'."
+dobeir,understand%2:31:00::,know and comprehend the nature or meaning of,3,1,1,"Generally this can be translated 'give', 'place' or 'bring'. The perfective form of this verb from a suppletive root, '*to-ucc-' = lit. 'can bring' is the basis of a complete paradigm with the distinct meaning 'understands'."
 asgnin,understand%2:31:00::,know and comprehend the nature or meaning of,2,,,
 iress,religion%1:09:00::,a strong belief in a supernatural power or powers that control human destiny,27,,,
 doérig,abandon%2:31:00::,leave someone who needs or counts on you; leave in the lurch,2,,,
