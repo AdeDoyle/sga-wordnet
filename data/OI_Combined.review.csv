@@ -299,25 +299,25 @@ atrab,possession%1:04:00::,the act of having and controlling property,9,1,1,"Usu
 ainmmde,nominal%3:01:00::,pertaining to a noun or to a word group that functions as a noun,2,1,1,
 con condelca,compare%2:31:00::,examine and note the similarities or differences of,2,1,1,"It is strange that the preverb is repeated for this entry. Otherwise it is an exact duplicate of the entry below."
 condelca,compare%2:31:00::,examine and note the similarities or differences of,2,1,1,
-cosmailigidir,compare%2:31:00::,examine and note the similarities or differences of,2,,,
-samlaither,compare%2:31:00::,examine and note the similarities or differences of,2,,,
-ifern,hell%1:15:01::,any place of pain and turmoil,2,,,
-airchrae,verb%1:10:01::,the word class that serves as the predicate of a sentence,2,,,
-airchrae,participle%1:10:00::,a non-finite form of the verb; in English it is used adjectivally and to form compound tenses,2,,,
-dínu,lamb%1:05:00::,young sheep,2,,,
+cosmailigidir,compare%2:31:00::,examine and note the similarities or differences of,2,1,1,
+samlaither,compare%2:31:00::,examine and note the similarities or differences of,2,1,1,
+ifern,hell%1:15:01::,any place of pain and turmoil,2,1,0,"I think it specifically means biblical hell, so the description is too general."
+airchrae,verb%1:10:01::,the word class that serves as the predicate of a sentence,2,0,0,"It can be translated 'failure', 'deficiency, 'ellipsis', 'dying' or 'decay'."
+airchrae,participle%1:10:00::,a non-finite form of the verb; in English it is used adjectivally and to form compound tenses,2,0,0,"It can be translated 'failure', 'deficiency, 'ellipsis', 'dying' or 'decay'."
+dínu,lamb%1:05:00::,young sheep,2,1,1,
 tír,country%1:15:00::,the territory occupied by a nation,2,1,1,"Better translations might be 'land', 'territory' or 'ground', but both this translation and definition are possible."
-inmedónach,interior%3:00:00::,situated within or suitable for inside a building,2,,,
-doróscai de,surpass%2:33:00::,be or do something to a greater degree,3,,,
+inmedónach,interior%3:00:00::,situated within or suitable for inside a building,2,1,1,"Usually translated 'internal', 'inner', or 'intermediate'."
+doróscai de,surpass%2:33:00::,be or do something to a greater degree,3,1,1,"'doróscai' can be translated 'surpass', but the inclusion of 'de' in the lemma is an error."
 doecmaing,happen%2:41:00::,"chance to be or do something, without intention or causation",3,1,1,
-cóir,correct%3:00:00::,free from error; especially conforming to fact or truth,2,,,
-immalle,together%4:02:02::,in contact with each other or in proximity,2,,,
-superlait,superlative%1:10:00::,an exaggerated expression (usually of praise),4,,,
-lainn,eager%3:00:00::,having or showing keen interest or intense desire or impatient expectancy,2,,,
-torbae,net_income%1:21:00::,the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses),3,,,
-áram,number%1:10:05::,the grammatical category for the forms of nouns and pronouns and verbs that are used depending on the number of entities involved (singular or dual or plural),2,,,
-lán,full%5:00:00:nourished:00,filled to satisfaction with food or drink,2,,,
-trebar,prudent%3:00:00::,careful and sensible; marked by sound judgment,2,,,
-airdíxa,long%3:00:01::,primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified,3,,,
+cóir,correct%3:00:00::,free from error; especially conforming to fact or truth,2,1,1,
+immalle,together%4:02:02::,in contact with each other or in proximity,2,1,1,
+superlait,superlative%1:10:00::,an exaggerated expression (usually of praise),4,1,1,
+lainn,eager%3:00:00::,having or showing keen interest or intense desire or impatient expectancy,2,1,1,
+torbae,net_income%1:21:00::,the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses),3,0,0,"It can be translated 'profit' or 'benefit'. The interpretation here is too modern."
+áram,number%1:10:05::,the grammatical category for the forms of nouns and pronouns and verbs that are used depending on the number of entities involved (singular or dual or plural),2,1,1,"It is used in this way in Sg. but it generally means 'number' in the sense 'numeral'. It can also be translated 'counting' or 'sum'."
+lán,full%5:00:00:nourished:00,filled to satisfaction with food or drink,2,0,0,"I can't find any attestation to support the definition. The translation 'full' is fine, but 'nourished' is not."
+trebar,prudent%3:00:00::,careful and sensible; marked by sound judgment,2,1,1,
+airdíxa,long%3:00:01::,primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified,3,1,0,"It refers to length of vowels."
 peneuilt,penult%1:10:00::,the next to last syllable in a word,5,,,
 asingaib,exceed%2:42:01::,be greater in scope or size than some standard,4,,,
 éicen,need%1:26:00::,a condition requiring relief,2,,,
@@ -429,7 +429,7 @@ cóis,cause%1:10:00::,a justification for something existing or happening,2,,,
 .i.,even%4:02:00::,used as an intensive especially to indicate something unexpected,4,0,0,"It is an abbreviation meaning 'i.e.', 'to wit' or 'namely'."
 dídnad,consolation%1:12:00::,the comfort you feel when consoled in times of disappointment,4,,,
 delb,paradigm%1:24:00::,systematic arrangement of all the inflected forms of a word,4,1,1,"This one surprised me. It is usually translated 'form', 'shape', 'figure', 'appearance', 'shaping', 'fashioning' or 'arranging', but it seems to be used in this manner in Sg., presumably as an extension of the meaning 'shaping' or 'arranging'."
-airdíxa,long%3:00:02::,primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified,3,,,
+airdíxa,long%3:00:02::,primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified,3,1,0,"It revers to length of vowels."
 saírse,work%1:06:00::,a product produced or accomplished through the effort or activity or agency of a person or thing,2,,,
 sreth,series%1:14:00::,similar things placed in order or happening one after another,2,,,
 fortórmach,addition%1:06:00::,a component that is added to something to improve it,3,,,
@@ -522,7 +522,7 @@ crích,boundary%1:15:00::,the line or plane indicating the limit or extent of so
 aiccent,stress%1:10:01::,the relative prominence of a syllable or musical note (especially with regard to stress or pitch),2,,,
 nert,force%1:19:00::,(physics) the influence that produces a change in a physical quantity,2,,,
 creitid,believe%2:31:01::,follow a credo; have a faith; be a believer,2,1,1,
-torbae,profit%1:07:00::,the advantageous quality of being beneficial,3,,,
+torbae,profit%1:07:00::,the advantageous quality of being beneficial,3,1,1,"It can be translated 'profit' or 'benefit'."
 creitid,believe%2:31:00::,accept as true; take to be true,5,1,1,
 foirbthetu,perfection%1:26:00::,the state of being without a flaw or defect,5,1,1,
 airlam,ready%3:00:00::,completely prepared or in condition for immediate action or use or progress,2,,,
@@ -553,18 +553,18 @@ comalnaithir,carry_through%2:36:00::,put in effect,9,,,
 tairngire,promise%1:09:00::,grounds for feeling hopeful about the future,2,1,0,"It means promise in the sense of a statement of assurance, or commitment."
 tairngire _,promise%1:09:00::,grounds for feeling hopeful about the future,2,1,0,"This is an exact duplicate of the entry above with an erronious underscore for some reason."
 iressach,faithful%3:00:00::,steadfast in affection or allegiance,2,,,
-bás,death%1:11:00::,the event of dying or departure from life,4,,1,
+bás,death%1:11:00::,the event of dying or departure from life,4,1,1,
 lá,day%1:28:03::,a point or period in time,2,1,1,"'lá' can be used with the meaning 'a point in time', e.g. 'co laa Poil' = 'until Paul's time' (Wb. 5b4)."
 coibse,confession%1:04:00::,(Roman Catholic Church) the act of a penitent disclosing their sinfulness before a priest in the sacrament of penance in the hope of absolution,2,,,
 foídid,send%2:38:01::,cause to go somewhere,2,,,
 is,send%2:38:01::,cause to go somewhere,2,0,0,"This is the copula. It does not mean 'send'."
-bél,lip%1:08:00::,either of two fleshy folds of tissue that surround the mouth and play a role in speaking,2,,1,
+bél,lip%1:08:00::,either of two fleshy folds of tissue that surround the mouth and play a role in speaking,21,
 precept,teaching%1:04:00::,the profession of a teacher,5,,,
 forcetal,teaching%1:04:00::,the profession of a teacher,2,,,
 guidid,pray%2:32:00::,"address a deity, a prophet, a saint or an object of worship; say a prayer",2,,,
 for forcain,teach%2:32:00::,impart skills or knowledge to,3,,,"It is strange that the preverb is repeated for this entry."
 báeth,simpleton%1:18:00::,a person lacking intelligence or common sense,2,,,
-nóib,holy%3:00:00::,belonging to or derived from or associated with a divine power,2,,1,
+nóib,holy%3:00:00::,belonging to or derived from or associated with a divine power,2,1,1,
 precept,education%1:04:00::,the activities of educating or instructing; activities that impart knowledge or skill,2,0,0,"Not specific enough. It means 'preaching' or 'teaching' of religious material."
 fochaid,agony%1:26:00::,a state of acute pain,3,,,
 fochaid,suffering%1:26:01::,misery resulting from affliction,2,,,
