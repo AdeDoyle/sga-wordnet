@@ -23,7 +23,7 @@ lebor,book%1:10:00::,a written work or composition that has been published (prin
 is,exist%2:42:00::,"have an existence, be extant",2,0,0,"This again is the copula. The meaning 'exist' may be possible in some senses, but I think this would more commonly be expressed in Old Irish with the substantive verb. Stifter writes 'in cases where existence, presence, a condition or a state is meant, the copula cannot be used: statements like “I think, therefore I am” … call for the use of the substantive verb' (Sengoidelc, p. 119)."
 cummasc,confusion%1:26:01::,disorder resulting from a failure to behave predictably,2,0,0,"The correct translation should be 'mixing', 'commingling' or 'mixture'. The term is idiomatically translated as 'confusion' once in Sg. but allowing that definition here strikes me like saying 'mixed' is synonymous with 'confused' as a result of its use in the phrase 'mixed up'."
 doecmaing,happen%2:30:00::,come to pass,3,1,1,
-dotét,happen%2:30:00::,come to pass,2,0,0,"The translation should be 'to come'. Maybe idiomatically it can be translated 'happens' in certain circumstances, but that's really not what the verb means."
+dotét,happen%2:30:00::,come to pass,2,0,0,"The translation should be 'come'. Maybe idiomatically it can be translated 'happen' in certain circumstances, but that's really not what the verb means."
 accomol,connection%1:24:00::,a relation between things or events (as in the case of one causing the other or sharing features with it),4,1,1,"It can be translated 'joining', 'junction', 'meeting', 'union' or 'conjunction'."
 randatu,part%1:24:00::,something determined in relation to something that includes it,2,0,0,"I don't think 'part' is entirely wrong here, as this word is derived from 'rann' = 'part'. However, 'randatu' seems to be a very technical grammatical term meaning something like 'particularity' or 'the quality of being related to a particular part-of-speech'."
 dliged,law%1:09:01::,a generalization that describes recurring facts or events in nature,4,1,0,"It means 'law' in the legal sense. I think this definition is anachronistic."
@@ -223,31 +223,31 @@ dobeir,confer%2:40:00::,present,2,1,1,"It can be translated 'give', 'place' or '
 asbeir,declare%2:32:00::,state emphatically and authoritatively,3,1,1,"It seems odd that three possible translations were found for this verb, but not the most common one, 'says'."
 cathrar,citizen%1:18:00::,a native or naturalized member of a state or other political community,2,1,1,
 scríbaid,write%2:36:01::,mark or trace words or symbols on a surface,2,1,1,
-dechraigidir,differ%2:42:00::,be different,2,,,
-sain,particular%5:00:00:specific:00,unique or specific to a person or thing or category,7,"different, special, peculiar, distinct",1,
-sainredach,particular%5:00:00:specific:00,unique or specific to a person or thing or category,2,,,
-aue,grandson%1:18:00::,a male grandchild,4,,,
-tar éis,place%1:26:01::,a particular situation,4,,,
-loc,place%1:26:01::,a particular situation,2,,,
-muinter,family%1:14:02::,a social unit living together,4,,,
-étig,ugly%3:00:00::,displeasing to the senses,2,,,
+dechraigidir,differ%2:42:00::,be different,2,1,1,
+sain,particular%5:00:00:specific:00,unique or specific to a person or thing or category,7,0,1,"It can mean 'different', 'special', 'peculiar' or 'distinct'. I think 'particular' might be too far, and I cannot find attestaton where this translation is more appropriate than something like 'peculiar'."
+sainredach,particular%5:00:00:specific:00,unique or specific to a person or thing or category,2,1,1,"This translation is attested in Ml. but not in our dataset. It is more generally translated 'charecteristic of', 'peculiar to', or 'special'."
+aue,grandson%1:18:00::,a male grandchild,4,1,1,
+tar éis,place%1:26:01::,a particular situation,4,0,0,"What seems to have been picked up here is the MWE, 'tar ési' = 'behind', 'after', 'instead of'. It can be translated 'in place of' but not simply 'place'."
+loc,place%1:26:01::,a particular situation,2,1,1,"Assuming 'situation' means 'where something is situated' as opposed to 'circumstance'."
+muinter,family%1:14:02::,a social unit living together,4,1,0,"This is a very broad term, with no exact counterpart in English. It generally means 'community' or 'group' with the implication of some common bond between them, and hence it can mean 'family' or 'household'. As such, I think the translation here is permissible, however I think the definition 'a social unit living together', i.e. the nuclear family, is too modern and perhaps not culturally appropriate for Irish anyhow as Modern Irish 'muintir' still does not necessarily cohabitation."
+étig,ugly%3:00:00::,displeasing to the senses,2,1,1,
 már,great%5:00:01:large:00,relatively large in size or number or extent; larger than others of its kind,2,1,1,"It can be translated 'great', 'big' or 'large'."
-cenélche,generality%1:07:00::,the quality of being general or widespread or having general applicability,3,,,
-adiacht,adjective%3:00:00::,relating to court practice and procedure as opposed to the principles of law,3,,1,
-trén,substantial%5:00:00:essential:00,of or relating to the real nature or essential elements of something,2,,,
-doformaig,add%2:30:00::,"make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of",4,,,
-adcomla,add%2:30:00::,"make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of",2,,,
-atbaill,die%2:30:00::,pass from physical life and lose all bodily attributes and functions necessary to sustain life,4,,,
-doformaig,increase%2:30:02::,make bigger or more,2,,,
-fodáli,divide%2:41:00::,separate into parts or portions,2,,1,
-ainm díles,proper_noun%1:10:00::,a noun that denotes a particular thing; usually capitalized,5,,1,
-ben día,goddess%1:18:00::,a female deity,4,,1,"I think always a MWE in the UD treebanks, but perhaps this is arbitrary and it could be a compound. No single headword in eDIL though."
-dotuit,fall%2:30:08::,pass suddenly and passively into a state of body or mind,2,,,
-asgnin,acknowledge%2:31:09::,accept (someone) to be what is claimed or accept their power and authority,2,,,
-attoíbed,attachment%1:04:02::,faithful support for a cause or political party or religion,2,,,
-dúildetu,nature%1:07:02::,the essential qualities or characteristics by which something is recognized,2,,,
-conscara,destroy%2:36:00::,"do away with, cause the destruction or undoing of",2,,,
-ainmmnigud,naming%1:10:00::,the verbal act of naming,3,"designation, denomination, naming",1,
+cenélche,generality%1:07:00::,the quality of being general or widespread or having general applicability,3,1,1,
+adiacht,adjective%3:00:00::,relating to court practice and procedure as opposed to the principles of law,3,1,0,"It refers to the part-of-speech."
+trén,substantial%5:00:00:essential:00,of or relating to the real nature or essential elements of something,2,0,0,"It should really be translated 'strong'. 'Substantial' may be a resonable extension of this, but 'essential' is not. In a grammatical sense the term 'ainm trén' can be translated 'substantive', though it literally means 'strong name/noun', and this seems to be where the confusion occurred in this example."
+doformaig,add%2:30:00::,"make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of",4,1,1,
+adcomla,add%2:30:00::,"make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of",2,1,1,"Rather it means 'join' or 'unite', but the meaning 'add' is a possible extension of this."
+atbaill,die%2:30:00::,pass from physical life and lose all bodily attributes and functions necessary to sustain life,4,1,1,"It can be translated 'dies', 'vanishes', 'perishes' or 'disappears'."
+doformaig,increase%2:30:02::,make bigger or more,2,1,1,
+fodáli,divide%2:41:00::,separate into parts or portions,2,1,1,
+ainm díles,proper_noun%1:10:00::,a noun that denotes a particular thing; usually capitalized,5,1,1,"The term 'díles' alone means 'proper' and 'ainm' can mean noun. However, 'ainm díles' is not possible as the neuter noun requires nasalisation to follow. Hence, the term for 'proper noun' should be 'ainm ṅdíles'. A limitation of this approach may be its inability to account for initial mutations when contriving MWEs."
+ben día,goddess%1:18:00::,a female deity,4,1,1,"I think always a MWE in the UD treebanks, 'ben' + 'día', but perhaps this is arbitrary and it could be a compound. No headword in eDIL for a single compounded form though."
+dotuit,fall%2:30:08::,pass suddenly and passively into a state of body or mind,2,1,1,"More commonly, it just means 'to fall' in the normal sense, however, this definition occurs in Wb. 32c16 'lapse into perdition'."
+asgnin,acknowledge%2:31:09::,accept (someone) to be what is claimed or accept their power and authority,2,0,0,"It should be translated 'recognise', 'understand' or 'know'. I can't find any attestation to support it meaning 'acknowledge'."
+attoíbed,attachment%1:04:02::,faithful support for a cause or political party or religion,2,0,1,"It means 'adhering' or 'adherence'. The definition could be seen as an example of adherence, but I wouldn't accept the translation."
+dúildetu,nature%1:07:02::,the essential qualities or characteristics by which something is recognized,2,1,1,
+conscara,destroy%2:36:00::,"do away with, cause the destruction or undoing of",2,1,1,
+ainmmnigud,naming%1:10:00::,the verbal act of naming,3,1,1,
 dobeir,yield%2:40:02::,be the cause or source of,3,0,0,"It can be translated 'give', 'place' or 'bring'. Though I can't entirely rule it out, I can't find an attestation to support this translation."
 acuit,acute_accent%1:10:00::,a mark placed above a vowel to indicate pronunciation,5,,,
 léigend,reading%1:09:00::,the cognitive process of understanding a written linguistic message,2,,,
@@ -356,7 +356,7 @@ medón,middle%1:28:00::,the point between the beginning and the end of a tempora
 testimin,time_period%1:28:00::,an amount of time,3,,,
 dia,today%1:28:00::,the present time or age,3,,,
 arfoím,assume%2:31:00::,take to be the case or to be true; accept without verification or proof,3,,,
-ad adcomla,join%2:35:01::,cause to become joined or linked,2,,,"It is strange that the preverb is repeated for this entry."
+ad adcomla,join%2:35:01::,cause to become joined or linked,2,1,1,"It is strange that the preverb is repeated for this entry. 'adcomla' alone means 'join' or 'unite'."
 tuisel,case%1:11:00::,an occurrence of something,15,,,
 forbart,increase%1:11:00::,a change resulting in an increase,3,,,
 dub,dark%3:00:02::,(used of color) having a dark hue,2,,,
@@ -480,13 +480,13 @@ dobeir,give%2:40:00::,transfer possession of something concrete or abstract to s
 dígal,vengeance%1:04:00::,the act of taking revenge (harming someone in retaliation for something harmful that they have done) especially in the next life,3,,,
 soilse,light%1:26:01::,a condition of spiritual awareness; divine illumination,2,,,
 díṡruthigud,derivation%1:22:00::,(descriptive linguistics) the process whereby new words are formed from existing words or bases by affixation,3,,,
-adcomla,associate%2:31:00::,make a logical or causal connection,2,,,
+adcomla,associate%2:31:00::,make a logical or causal connection,2,0,1,"The correct translation would be 'join' or 'unite'."
 aimser,time%1:03:00::,the continuum of experience in which events pass from the future through the present to the past,6,,1,"Presumably this is a possible meaning, i.e. 'all time', but I can't find it attested with this specific context, though it is attested in reference to relatively long periods of time, e.b. 'an epoch', 'an age'."
-loc,place%1:09:00::,an abstract mental location,3,,,
-laithirt,hangover%1:26:00::,disagreeable aftereffects from the use of drugs (especially alcohol),2,,1,
-aicsenugud,causality%1:24:00::,the relation between causes and effects,3,,,
-dotét,arrive%2:38:00::,reach a destination; arrive by movement or progress,2,"come",1,"By extension of it's primary meaning, 'to come'"
-cocart,correction%1:04:00::,the act of offering an improvement to replace a mistake; setting right,3,,1,
+loc,place%1:09:00::,an abstract mental location,3,1,0,"I'm not even sure what an 'abstract mental location' means. But this means 'location', 'place' or 'position', which I assume must be physical."
+laithirt,hangover%1:26:00::,disagreeable aftereffects from the use of drugs (especially alcohol),2,1,1,"It may be more accurate to translate 'drinking' or 'drunkenness', though McManus writes that a historical (pseudo-?)etymology of the word “shows the basic meaning to be 'excessive ale-consumption' with the logical extensions 'excessive drunkenness' and ' massive hangover', the last probably the meaning intended in the Priscian Ogams [i.e. our dataset]” (Damian McManus, A Guide to Ogam. An Sagart, 1991, reprinted 1997. P. 133.). If the etymology proposed by eDIL is correct, and the word is, in fact, a combination of 'laith' = 'ale/liquor' and 'fiurt' = 'A wonderful work/miracle', then I suspect the interpretation 'hangover', if it ever was intended to be interpreted as such, was meant ironically."
+aicsenugud,causality%1:24:00::,the relation between causes and effects,3,0,0,"It means 'the act of giving a reason' or 'providing an excuse'. Perhaps 'explaining causality' at a stretch, but not 'causality' itself."
+dotét,arrive%2:38:00::,reach a destination; arrive by movement or progress,2,1,1,"The translation should be 'come', but it can be translated 'arrive' in certain contexts as an extension of it's primary meaning, 'to come'."
+cocart,correction%1:04:00::,the act of offering an improvement to replace a mistake; setting right,3,1,1,"The definition is correct, but it can also mean the correction itself."
 camm,devious%5:00:00:indirect:02,indirect in departing from the accepted or proper way; misleading,5,,,
 atárcadach,anaphoric%3:01:00::,relating to anaphora,2,,,
 mrechtrad,diverseness%1:07:00::,noticeable heterogeneity,2,"variety, diversity",1,
@@ -509,7 +509,7 @@ etercert,interpretation%1:09:01::,a mental representation of the meaning or sign
 foillsigthech,demonstrative%3:00:00::,given to or marked by the open expression of emotion,2,,,
 doairngir,promise%2:32:00::,make a promise or commitment,2,,,
 dobeir,understand%2:31:00::,know and comprehend the nature or meaning of,3,1,1,"Generally this can be translated 'give', 'place' or 'bring'. The perfective form of this verb from a suppletive root, '*to-ucc-' = lit. 'can bring' is the basis of a complete paradigm with the distinct meaning 'understands'."
-asgnin,understand%2:31:00::,know and comprehend the nature or meaning of,2,,,
+asgnin,understand%2:31:00::,know and comprehend the nature or meaning of,2,1,1,
 iress,religion%1:09:00::,a strong belief in a supernatural power or powers that control human destiny,27,,,
 doérig,abandon%2:31:00::,leave someone who needs or counts on you; leave in the lurch,2,,,
 graif,grave_accent%1:10:00::,a mark (‘) placed above a vowel to indicate pronunciation,4,,,
