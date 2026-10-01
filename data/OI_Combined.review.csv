@@ -8,7 +8,7 @@ ríagol,rule%1:09:00::,a principle or condition that customarily governs behavio
 cenélae,kind%1:09:00::,a category of things distinguished by some common characteristic or quality,11,1,1,
 cenél,kind%1:09:00::,a category of things distinguished by some common characteristic or quality,3,1,1,"It can have any of the translations 'race', 'nation', 'kindred', 'kind', 'sort', 'type', or 'grammatical gender'."
 gné,kind%1:09:00::,a category of things distinguished by some common characteristic or quality,3,1,1,"This translation is correct, but a bit broad. It usually means something more specific, like 'species'."
-mrechtrad,kind%1:09:00::,a category of things distinguished by some common characteristic or quality,2,0,0,"The translation should be 'variety, diversity'."
+mrechtrad,kind%1:09:00::,a category of things distinguished by some common characteristic or quality,2,0,0,"The translation should be 'variety' or 'diversity'."
 indas,kind%1:09:00::,a category of things distinguished by some common characteristic or quality,2,1,1,
 etargne,cognition%1:03:00::,the psychological result of perception and learning and reasoning,9,1,1,"The translation and definition are echnically correct, but as an extended meaning. Ther term means 'knowledge' or 'familiarity' of something, which does not need to result from learning or reasoning."
 fis,cognition%1:03:00::,the psychological result of perception and learning and reasoning,3,0,0,"Maybe I'm being too stringent here, but I don't think 'fis' can be the psychological result of perception, learning or reasoning. It can mean the act of learning or ascertaining knowledge, but more typically means simply 'knowledge' or 'information'."
@@ -118,7 +118,7 @@ in incoisig,mean%2:32:03::,denote or connote,3,1,1,"It is strange that the preve
 do dofoirndea,mean%2:32:03::,denote or connote,2,0,1,"It is strange that the preverb is repeated for this entry. The translation should be 'express' or 'signify', though the definition seems possible as an extension of 'signify'."
 folad cétnae,same%3:00:02::,same in identity,6,1,1,"Only 'cétnae' means 'same'. The phrase 'folad cétnae' is used in Sg. but means 'same substance'."
 inunn,same%3:00:00::,closely similar or comparable in kind or quality or quantity or degree,7,1,1,
-sluindid,carry%2:32:02::,serve as a means for expressing something,4,0,0,"It means to 'express', 'signify', 'declare, 'mention', 'describe' or 'name'"
+sluindid,carry%2:32:02::,serve as a means for expressing something,4,0,0,"It means to 'express', 'signify', 'declare, 'mention', 'describe' or 'name'."
 fordingair,express%2:32:01::,give expression to,2,1,1,
 coibnius,affinity%1:07:01::,inherent resemblance between persons or things,2,1,0,"It means 'relation' or 'blood relationship'. It was translated 'affinity' idiomatically in our dataset in a situation where 'relation' would have been a more accurate translation."
 tinfed,inhalation%1:04:00::,the act of inhaling; the drawing in of air (or other gases) as in breathing,3,0,0,"This means 'lenition' or 'breathing'. As such, this translation is close, but it probably refers more to to exhaling than inhaling given the context. In any case, while it can mean general breathing, I don't think it can specifically mean inhaling."
@@ -249,66 +249,66 @@ dúildetu,nature%1:07:02::,the essential qualities or characteristics by which s
 conscara,destroy%2:36:00::,"do away with, cause the destruction or undoing of",2,1,1,
 ainmmnigud,naming%1:10:00::,the verbal act of naming,3,1,1,
 dobeir,yield%2:40:02::,be the cause or source of,3,0,0,"It can be translated 'give', 'place' or 'bring'. Though I can't entirely rule it out, I can't find an attestation to support this translation."
-acuit,acute_accent%1:10:00::,a mark placed above a vowel to indicate pronunciation,5,,,
-léigend,reading%1:09:00::,the cognitive process of understanding a written linguistic message,2,,,
-derb,certain%3:00:01::,established beyond doubt or question; definitely known,2,,,
-doecmaing _,happen%2:30:02::,"happen, occur, or be the case in the course of events or by chance",2,,1,"Similar to other entries, but with underscore for some reason."
-aitherrechtaigthe _,patronymic%1:10:00::,a family name derived from name of your father or a paternal ancestor (especially with an affix (such as ‘-son’ in English or ‘O'-’ in Irish) added to the name of your father or a paternal ancestor),2,,1,"Why the underscore?"
-lá,day%1:28:01::,a day assigned to a particular purpose or observance,4,,1,"Technically possible, but this would probably necessitate a MWE where 'lá' = 'day' is followed by another noun in the genitive, e.g. 'lá bratha/o' = 'doomsday'."
-laithe,day%1:28:01::,a day assigned to a particular purpose or observance,2,,,
-lá sin,day%1:28:01::,a day assigned to a particular purpose or observance,2,"that day",1,"Just 'lá' = 'day' with a demonstrative, i.e. 'that day'. I suppose the definition is correct, but I don't think it should be considered a single lexeme."
-gainithir som,give_birth%2:29:00::,cause to be born,2,,,
-tairmḟorcend,termination%1:28:00::,a coming to an end of a contract period,8,,,
-conutaing,construct%2:36:00::,make by combining materials and parts,3,,,
-cland,child%1:18:01::,a human offspring (son or daughter) of any age,3,,,
-soíre,freedom%1:26:00::,the condition of being free; the power to act or speak or think without externally imposed restraints,3,,,
-bráthair,brother%1:18:00::,a male with the same parents as someone else,5,,1,
-bráthair athair,brother%1:18:00::,a male with the same parents as someone else,2,,,"Why is 'athair' 'father' included in this entry?"
-athair,brother%1:18:00::,a male with the same parents as someone else,2,"father",0,
-glúas,gloss%1:10:00::,an explanation or definition of an obscure word in a text,4,,1,
-ríagolda,regular%3:00:00::,in accordance with fixed order or procedure or principle,6,,1,
-ríagol,convention%1:09:00::,something regarded as a normative example,3,"rule",1,"I'm on the fence about this one. This interpretation is possible because it can refer to spelling 'rules' or grammatical 'rules', though to call these 'conventions' might be too soft."
-femen,feminine%1:10:00::,a gender that refers chiefly (but not exclusively) to females or to objects classified as female,9,,,
-attá,come%2:42:04::,to be the product or result,5,,0,"This is the substantive verb. It does not mean 'to come'."
-ilar neutur,plural%1:10:00::,the form of a word that is used to denote more than one,6,,,
-adtreba,possess%2:42:00::,"have as an attribute, knowledge, or skill",13,,1,
-techtaid,possess%2:42:00::,"have as an attribute, knowledge, or skill",5,,,
-adrad,worship%1:04:00::,the activity of worshipping,2,,,
-arm,arm%1:08:00::,a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb,3,,,
-adtreba,populate%2:42:00::,be an inhabitant of or reside in,3,"inhabit, dwell in",1,"This is close enough, but I think 'populate' isn't a great translation. 'inhabit' is better."
-díṡruthaigidir,derive%2:30:01::,obtain from a particular source,2,,,
-dán,humanistic_discipline%1:09:00::,studies intended to provide general knowledge and intellectual skills (rather than occupational or professional skills),2,,,
-dán,art%1:06:00::,the products of human creativity; works of art collectively,2,,,
-bunad,beginning%1:15:00::,"the place where something begins, where it springs into being",3,,,
-erochuir,leg%1:08:01::,a human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle,2,,,
-coll,hazel%1:07:00::,a shade of brown that is yellowish or reddish; it is a greenish shade of brown when used to describe the color of someone's eyes,2,,,
-aicme,tribe%1:14:00::,a social division of (usually preliterate) people,2,,,
-molad,praise%1:10:00::,an expression of approval and commendation,3,,1,
-congaib,incorporate%2:42:00::,include or contain; have as a component,2,,,
-luib,plant%1:03:00::,(botany) a living organism lacking the power of locomotion,4,,,
-derg,red%5:00:01:chromatic:00,of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies,4,,1,
-sruth,river%1:17:00::,a large natural stream of water (larger than a creek),2,,,
-mug,slave%1:18:00::,a person who is owned by someone,2,,1,
-eirp,goat%1:05:00::,any of numerous agile ruminants related to sheep but having a beard and straight horns,2,,,
-clíab,basket%1:06:00::,a container that is usually woven and has handles,2,,,
-fích,village%1:14:00::,a community of people smaller than a town,2,,,
-cenn,sake%1:07:00::,a reason for wanting something done,2,,,
-ailidetu,alternation%1:04:00::,successive change from one thing or state to another and back again,3,,,
-místae,monthly%5:00:00:periodic:00,of or occurring or payable every month,2,,,
-atrab,possession%1:04:00::,the act of having and controlling property,9,,,
-ainmmde,nominal%3:01:00::,pertaining to a noun or to a word group that functions as a noun,2,,,
-con condelca,compare%2:31:00::,examine and note the similarities or differences of,2,,,"It is strange that the preverb is repeated for this entry."
-condelca,compare%2:31:00::,examine and note the similarities or differences of,2,,,
+acuit,acute_accent%1:10:00::,a mark placed above a vowel to indicate pronunciation,5,1,1,
+léigend,reading%1:09:00::,the cognitive process of understanding a written linguistic message,2,1,1,
+derb,certain%3:00:01::,established beyond doubt or question; definitely known,2,1,1,
+doecmaing _,happen%2:30:02::,"happen, occur, or be the case in the course of events or by chance",2,1,1,"The underscore in the lemma is clearly an error."
+aitherrechtaigthe _,patronymic%1:10:00::,a family name derived from name of your father or a paternal ancestor (especially with an affix (such as ‘-son’ in English or ‘O'-’ in Irish) added to the name of your father or a paternal ancestor),2,1,1,"The underscore in the lemma is clearly an error."
+lá,day%1:28:01::,a day assigned to a particular purpose or observance,4,1,1,"Technically possible, but this would probably necessitate a MWE where 'lá' = 'day' is followed by another noun in the genitive, e.g. 'laa ṁ brátha' = 'doomsday' (Wb. 26a1)."
+laithe,day%1:28:01::,a day assigned to a particular purpose or observance,2,1,1,"Technically possible, but this would probably necessitate a MWE where 'laithe' = 'day' is followed by another noun in the genitive, e.g. 'dilaithiu brátho' = 'of doomsday' (Wb. 25d20)."
+lá sin,day%1:28:01::,a day assigned to a particular purpose or observance,2,0,1,"This is an MWE that means specifically 'that day'. I suppose the definition is correct, given the actual translation."
+gainithir som,give_birth%2:29:00::,cause to be born,2,0,0,"'gainithir' can be translated 'is born', 'is produced', 'arises', but not 'gives birth'. The 'som' is an emphatic pronoun and should not be included in the lemma."
+tairmḟorcend,termination%1:28:00::,a coming to an end of a contract period,8,1,0,"It means 'termination' or 'ending' in the grammatical sense, as in the ending of a word."
+conutaing,construct%2:36:00::,make by combining materials and parts,3,1,1,
+cland,child%1:18:01::,a human offspring (son or daughter) of any age,3,1,1,"Usually it means 'children', 'offspring' or 'descendants', plural. There is at least one example in Sg. (204b2) where it is translated 'child', singular."
+soíre,freedom%1:26:00::,the condition of being free; the power to act or speak or think without externally imposed restraints,3,1,1,
+bráthair,brother%1:18:00::,a male with the same parents as someone else,5,1,1,
+bráthair athair,brother%1:18:00::,a male with the same parents as someone else,2,0,0,"Why is 'athair' = 'father' included in this entry?"
+athair,brother%1:18:00::,a male with the same parents as someone else,2,0,0,"It should be translated 'father'."
+glúas,gloss%1:10:00::,an explanation or definition of an obscure word in a text,4,1,1,
+ríagolda,regular%3:00:00::,in accordance with fixed order or procedure or principle,6,1,1,
+ríagol,convention%1:09:00::,something regarded as a normative example,3,0,1,"I'm on the fence about this one. The proper translation should really be 'rule', not 'convention'. This definition is possible because the word can refer to spelling 'rules' or grammatical 'rules', though to call these 'conventions' might be too soft."
+femen,feminine%1:10:00::,a gender that refers chiefly (but not exclusively) to females or to objects classified as female,9,1,1,
+attá,come%2:42:04::,to be the product or result,5,0,0,"This is the substantive verb. It does not mean 'to come'."
+ilar neutur,plural%1:10:00::,the form of a word that is used to denote more than one,6,1,1,"'ilar' can be translated 'plural', but it's not clear why 'neutur' = 'neuter' is in the lemma."
+adtreba,possess%2:42:00::,"have as an attribute, knowledge, or skill",13,1,1,
+techtaid,possess%2:42:00::,"have as an attribute, knowledge, or skill",5,1,1,
+adrad,worship%1:04:00::,the activity of worshipping,2,1,1,
+arm,arm%1:08:00::,a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb,3,0,0,"It can be translated 'arms' in the plural, with the sense 'weaponry', but not 'limbs'. In the singular, a better translation would be 'weapon'."
+adtreba,populate%2:42:00::,be an inhabitant of or reside in,3,0,1,"The definition is accurate, but the translation should be 'inhabit' or 'dwell in'. I think 'populate' isn't quite right."
+díṡruthaigidir,derive%2:30:01::,obtain from a particular source,2,1,1,
+dán,humanistic_discipline%1:09:00::,studies intended to provide general knowledge and intellectual skills (rather than occupational or professional skills),2,0,0,"It means a 'gift', 'poem' or 'skill'."
+dán,art%1:06:00::,the products of human creativity; works of art collectively,2,1,1,"This translation is possible, though it generally refers to poertry."
+bunad,beginning%1:15:00::,"the place where something begins, where it springs into being",3,0,1,"The translation should be 'origin'."
+erochuir,leg%1:08:01::,a human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle,2,1,1,
+coll,hazel%1:07:00::,a shade of brown that is yellowish or reddish; it is a greenish shade of brown when used to describe the color of someone's eyes,2,1,0,"It refers to the tree or its wood."
+aicme,tribe%1:14:00::,a social division of (usually preliterate) people,2,1,1,
+molad,praise%1:10:00::,an expression of approval and commendation,3,1,1,
+congaib,incorporate%2:42:00::,include or contain; have as a component,2,0,1,"It can be translated 'include' or 'contain'. I can't find any translation that uses 'incorporate'."
+luib,plant%1:03:00::,(botany) a living organism lacking the power of locomotion,4,1,1,
+derg,red%5:00:01:chromatic:00,of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies,4,1,1,
+sruth,river%1:17:00::,a large natural stream of water (larger than a creek),2,1,1,
+mug,slave%1:18:00::,a person who is owned by someone,2,1,1,
+eirp,goat%1:05:00::,any of numerous agile ruminants related to sheep but having a beard and straight horns,2,0,0,"It refers specifically to a she-goat."
+clíab,basket%1:06:00::,a container that is usually woven and has handles,2,1,1,
+fích,village%1:14:00::,a community of people smaller than a town,2,1,1,
+cenn,sake%1:07:00::,a reason for wanting something done,2,0,0,"It can be used in the MWE 'di/do chiunn' to mean 'for the sake of', but not alone."
+ailidetu,alternation%1:04:00::,successive change from one thing or state to another and back again,3,1,1,
+místae,monthly%5:00:00:periodic:00,of or occurring or payable every month,2,1,1,
+atrab,possession%1:04:00::,the act of having and controlling property,9,1,1,"Usually means 'act of taking possession', 'act of inhabiting', 'dwelling in' or a 'dwelling', but it seems it's used with the sense 'possession' repeatedly in Sg."
+ainmmde,nominal%3:01:00::,pertaining to a noun or to a word group that functions as a noun,2,1,1,
+con condelca,compare%2:31:00::,examine and note the similarities or differences of,2,1,1,"It is strange that the preverb is repeated for this entry. Otherwise it is an exact duplicate of the entry below."
+condelca,compare%2:31:00::,examine and note the similarities or differences of,2,1,1,
 cosmailigidir,compare%2:31:00::,examine and note the similarities or differences of,2,,,
 samlaither,compare%2:31:00::,examine and note the similarities or differences of,2,,,
 ifern,hell%1:15:01::,any place of pain and turmoil,2,,,
 airchrae,verb%1:10:01::,the word class that serves as the predicate of a sentence,2,,,
 airchrae,participle%1:10:00::,a non-finite form of the verb; in English it is used adjectivally and to form compound tenses,2,,,
 dínu,lamb%1:05:00::,young sheep,2,,,
-tír,country%1:15:00::,the territory occupied by a nation,2,"land, territory, ground",1,
+tír,country%1:15:00::,the territory occupied by a nation,2,1,1,"Better translations might be 'land', 'territory' or 'ground', but both this translation and definition are possible."
 inmedónach,interior%3:00:00::,situated within or suitable for inside a building,2,,,
 doróscai de,surpass%2:33:00::,be or do something to a greater degree,3,,,
-doecmaing,happen%2:41:00::,"chance to be or do something, without intention or causation",3,,1,
+doecmaing,happen%2:41:00::,"chance to be or do something, without intention or causation",3,1,1,
 cóir,correct%3:00:00::,free from error; especially conforming to fact or truth,2,,,
 immalle,together%4:02:02::,in contact with each other or in proximity,2,,,
 superlait,superlative%1:10:00::,an exaggerated expression (usually of praise),4,,,
@@ -321,26 +321,26 @@ airdíxa,long%3:00:01::,primarily spatial sense; of relatively great or greater 
 peneuilt,penult%1:10:00::,the next to last syllable in a word,5,,,
 asingaib,exceed%2:42:01::,be greater in scope or size than some standard,4,,,
 éicen,need%1:26:00::,a condition requiring relief,2,,,
-macc,male_child%1:18:00::,a youthful male person,2,"son",1,
-ungae,ounce%1:23:02::,a unit of apothecary weight equal to 480 grains or one twelfth of a troy pound,2,,1,
-póc,kiss%1:04:00::,the act of caressing with the lips (or an instance thereof),2,,1,
+macc,male_child%1:18:00::,a youthful male person,2,1,1,"More commonly translated 'son', but this is possible also."
+ungae,ounce%1:23:02::,a unit of apothecary weight equal to 480 grains or one twelfth of a troy pound,2,1,1,
+póc,kiss%1:04:00::,the act of caressing with the lips (or an instance thereof),2,1,1,
 tindnacol,gift%1:21:00::,something acquired without compensation,2,,,
-luib,plant%1:06:01::,buildings for carrying on industrial labor,3,,,
+luib,plant%1:06:01::,buildings for carrying on industrial labor,3,0,0,"It means plant in the sense of vegitation."
 ith,grain%1:17:00::,a relatively small granular particle of a substance,2,,,
 biáil,ax%1:06:00::,an edge tool with a heavy bladed head mounted across a handle,2,,,
 croicenn,skin%1:08:00::,a natural protective body covering and site of the sense of touch,2,,,
 dogní,make%2:30:00::,give certain properties to something,3,1,0,"It can be translated either 'make' or 'do'. I'm not sure how the definition equates to the concept of 'making' something, even in English. I'd have to see the examples this definition is based on."
 ingen,nail%1:08:00::,horny plate covering and protecting part of the dorsal surface of the digits,2,1,1,"This is a homonym with the much more common/basic/important term, 'ingen' = 'daughter', 'girl' or 'maiden', which appears to be unrepresented."
-glún,knee%1:08:00::,hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella,2,,1,
-cenn,head%1:08:00::,the upper part of the human body or the front part of the body in animals; contains the face and brains,2,,1,
+glún,knee%1:08:00::,hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella,2,1,1,
+cenn,head%1:08:00::,the upper part of the human body or the front part of the body in animals; contains the face and brains,2,1,1,
 dris,scrub%1:14:00::,dense vegetation consisting of stunted trees or bushes,2,,,
 fochraic,wages%1:11:00::,a recompense for worthy acts or retribution for wrongdoing,3,,,
-míl,soldier%1:18:00::,an enlisted man or woman who serves in an army,2,,1,
+míl,soldier%1:18:00::,an enlisted man or woman who serves in an army,2,1,1,
 richis,ember%1:17:00::,a hot fragment of wood or coal that is left from a fire and is glowing or smoldering,2,,,
-fairge,sea%1:17:00::,a division of an ocean or a large body of salt water partially enclosed by land,2,,1,
-muir,sea%1:17:00::,a division of an ocean or a large body of salt water partially enclosed by land,2,,1,
-tír _,land%1:17:01::,material in the top layer of the surface of the earth in which plants can grow (especially with reference to its quality or use),2,"land, territory, ground",1,"Duplicate of earlier entry with underscore for some reason."
-tír,land%1:17:01::,material in the top layer of the surface of the earth in which plants can grow (especially with reference to its quality or use),2,"land, territory, ground",1,
+fairge,sea%1:17:00::,a division of an ocean or a large body of salt water partially enclosed by land,2,1,1,
+muir,sea%1:17:00::,a division of an ocean or a large body of salt water partially enclosed by land,2,1,1,
+tír _,land%1:17:01::,material in the top layer of the surface of the earth in which plants can grow (especially with reference to its quality or use),2,1,1,"This is an exact duplicate of the entry below, except for the erronious underscore in the lemma."
+tír,land%1:17:01::,material in the top layer of the surface of the earth in which plants can grow (especially with reference to its quality or use),2,1,1,"It can be translated 'land', 'territory' or 'ground'."
 emnad,doubling%1:22:00::,increase by a factor of two,4,,,
 lóthar,bathtub%1:06:00::,a relatively large open container that you fill with water and use to wash the body,2,,,
 consuidigedar,intensify%2:30:01::,"make more intense, stronger, or more marked",2,,,
@@ -351,7 +351,7 @@ druimmchlae,ceiling%1:06:00::,the overhead upper surface of a covered space,2,,,
 druimmchlí,ceiling%1:06:00::,the overhead upper surface of a covered space,2,,,
 senatóir,senator%1:18:00::,a member of a senate,2,,,
 óinechaid,rider%1:18:00::,a traveler who actively rides an animal (as a horse or camel),2,,,
-sulbaire,cheerfulness%1:07:00::,the quality of being cheerful and dispelling gloom,2,,1,
+sulbaire,cheerfulness%1:07:00::,the quality of being cheerful and dispelling gloom,2,1,1,
 medón,middle%1:28:00::,the point between the beginning and the end of a temporal period or process,2,,,
 testimin,time_period%1:28:00::,an amount of time,3,,,
 dia,today%1:28:00::,the present time or age,3,,,
@@ -361,44 +361,44 @@ tuisel,case%1:11:00::,an occurrence of something,15,,,
 forbart,increase%1:11:00::,a change resulting in an increase,3,,,
 dub,dark%3:00:02::,(used of color) having a dark hue,2,,,
 comdelb,conformity%1:07:02::,correspondence in form or appearance,2,,,
-ard,tall%3:00:00::,great in vertical dimension; high in stature,2,,1,
+ard,tall%3:00:00::,great in vertical dimension; high in stature,2,1,1,
 amal,so%4:02:05::,"in such a condition or manner, especially as expressed or implied",4,,,
-dano,so%4:02:05::,"in such a condition or manner, especially as expressed or implied",2,"therefore, then, accordingly",1,
-sís,below%4:02:01::,in or to a place that is lower,4,,1,
-tís,below%4:02:01::,in or to a place that is lower,2,,1,
+dano,so%4:02:05::,"in such a condition or manner, especially as expressed or implied",2,1,1,"Better translations might be 'therefore', 'then' or 'accordingly'."
+sís,below%4:02:01::,in or to a place that is lower,4,1,1,
+tís,below%4:02:01::,in or to a place that is lower,2,1,1,
 díṡruthigud,derivation%1:09:00::,a line of reasoning that shows how a conclusion follows logically from accepted propositions,2,,,
 aslena,pollute%2:30:00::,make impure,3,,,
-sacart,priest%1:18:01::,a person who performs religious duties and ceremonies in a non-Christian religion,3,,1,
+sacart,priest%1:18:01::,a person who performs religious duties and ceremonies in a non-Christian religion,3,1,0,"I can't find this word attested in reference to a non-christian religion. It seems unlikely, as it's a borrowing from Latin 'sacerdos'."
 uilt,ultima%1:10:00::,the last syllable in a word,4,,,
-gnáth,usual%3:00:00::,occurring or encountered or experienced or observed frequently or in accordance with regular practice or procedure,3,,1,
+gnáth,usual%3:00:00::,occurring or encountered or experienced or observed frequently or in accordance with regular practice or procedure,3,1,1,
 aiccent,accent%1:10:01::,distinctive manner of oral expression,13,,,
 dítiu,shelter%1:06:00::,a structure that provides privacy and protection from danger,2,,,
 aitrebthaid,inhabitant%1:18:00::,a person who inhabits a particular place,2,,,
-gníid,act%2:41:00::,"perform an action, or work out or perform (an action)",3,"act, do, make, construct, perform",1,
-rann,piece%1:06:05::,an item that is an instance of some type,2,"part",1,
-neph corpdae,incorporeal%3:00:00::,without material form or substance,2,,1,"This may be considered a compound rather than a MWE, as here, but I think the treebanks treat all instances of prefix 'neph-' as a separate word."
-lán,full%3:00:00::,containing as much or as many as is possible or normal,2,,1,
+gníid,act%2:41:00::,"perform an action, or work out or perform (an action)",3,1,1,"It can be translated 'act', 'do', 'make', 'construct' or 'perform'."
+rann,piece%1:06:05::,an item that is an instance of some type,2,1,1,"A better translation might be 'part' or 'division'."
+neph corpdae,incorporeal%3:00:00::,without material form or substance,2,1,1,"This may be considered a compound rather than a MWE, as here, but I think the treebanks treat all instances of prefix 'neph-' as a separate word."
+lán,full%3:00:00::,containing as much or as many as is possible or normal,2,1,1,
 ith,corn%1:20:02::,the dried grains or kernels or corn used as animal feed or ground for meal,5,,,
 dofuisim,generate%2:36:00::,"produce, create",2,,,
 articol,article%1:10:01::,(grammar) a determiner that may indicate the specificity of reference of a noun phrase,9,,,
 engraicigidir,assume%2:30:00::,"take on a certain form, attribute, or aspect",3,,,
-torad,fruit%1:20:00::,the ripened reproductive body of a seed plant,2,,1,
+torad,fruit%1:20:00::,the ripened reproductive body of a seed plant,2,1,1,
 accobur,desire%1:12:00::,the feeling that accompanies an unsatisfied state,3,,,
 bacc,sickle%1:06:00::,an edge tool for cutting grass or crops; has a curved blade and a short handle,2,,,
 camm derc,squinter%1:18:00::,a person with strabismus,3,,,
 salann,salt%1:13:00::,white crystalline form of especially sodium chloride used to season and preserve food,2,,,
 lúa líath,spleen%1:08:00::,a large dark-red oval organ on the left side of the body between the stomach and the diaphragm; produces cells involved in immune responses,2,,,
-mall,slow%3:00:01::,not moving quickly; taking a comparatively long time,5,,1,
+mall,slow%3:00:01::,not moving quickly; taking a comparatively long time,5,1,1,
 tegdais,house%1:06:00::,a dwelling that serves as living quarters for one or more families,4,,,
-tech,house%1:06:00::,a dwelling that serves as living quarters for one or more families,2,,1,
-cosmailius,likeness%1:07:00::,similarity in appearance or character or nature between persons or things,4,,1,
-íarum,subsequently%4:02:00::,happening at a time subsequent to a reference time,3,"thereafter, then, afterwards",1,
-tairmḟorcend,ending%1:10:00::,the end of a word (a suffix or inflectional ending or final morpheme),2,,,
+tech,house%1:06:00::,a dwelling that serves as living quarters for one or more families,2,1,1,
+cosmailius,likeness%1:07:00::,similarity in appearance or character or nature between persons or things,4,1,1,
+íarum,subsequently%4:02:00::,happening at a time subsequent to a reference time,3,1,1,"Usually translated 'thereafter', 'then' or 'afterwards'."
+tairmḟorcend,ending%1:10:00::,the end of a word (a suffix or inflectional ending or final morpheme),2,1,1,
 tomus,bill%1:10:04::,a statute in draft before it becomes law,2,,,
-sís,below%4:02:00::,(in writing) at a later place,4,,1,
+sís,below%4:02:00::,(in writing) at a later place,4,1,1,
 airchinnech,principal%1:18:00::,the educator who has executive authority for a school,2,,,
 laithe,day%1:28:00::,time for Earth to make a complete rotation on its axis,2,,,
-lá,day%1:28:00::,time for Earth to make a complete rotation on its axis,2,,1,
+lá,day%1:28:00::,time for Earth to make a complete rotation on its axis,2,1,1,
 doadbat,prove%2:31:00::,"establish the validity of something, as by an example, explanation or experiment",4,,,
 adroilli,deserve%2:42:00::,be worthy or deserving,2,,,
 cochae,buttock%1:08:00::,either of the two large fleshy masses of muscular tissue that form the human rump,2,,,
@@ -411,24 +411,24 @@ loan,fat%1:27:00::,a soft greasy substance occurring in organic tissue and consi
 sommae,rich%3:00:00::,possessing material wealth,3,,,
 glan,pure%3:00:02::,free of extraneous elements of any kind,3,,,
 déde,thing%1:10:00::,a statement regarded as an object,3,,,
-dliged,law%1:10:00::,legal document setting forth rules governing a particular kind of activity,2,,0,"I don't know if it can refer to a physical legal document itself, however it certainly can refer to a body of understood or traditional rules which may occur in a document."
+dliged,law%1:10:00::,legal document setting forth rules governing a particular kind of activity,2,1,0,"I don't know if it can refer to a physical legal document itself, however it certainly can refer to a body of understood or traditional rules which may occur in a document."
 deithbir,reasonable%3:00:00::,showing reason or sound judgment,2,,,
-il,numerous%5:00:00:many:00,amounting to a large indefinite number,2,"many, numerous",1,
+il,numerous%5:00:00:many:00,amounting to a large indefinite number,2,1,1,
 ildae,plural%3:00:00::,grammatical number category referring to two or more items or units,2,,,
 linn,drink%1:13:04::,a single serving of a beverage,2,,,
 buith,beryllium%1:27:00::,a light strong brittle grey toxic bivalent metallic element,2,,,
 etarscarad,separation%1:11:00::,coming apart,2,,,
-comṡuidigud,compound%1:09:00::,a whole formed by a union of two or more elements or parts,2,"compounding, mixing, composition, compound",1,
-rann,parts%1:15:00::,the local environment,2,"part",0,"It means 'a part' or 'a piece', not 'parts' plural. It is unclear how this key sense relates to the suggested definition, perhaps from phrases like 'around these parts'. Either way, the definition is incorrect, it has nothing to do with the local environment."
+comṡuidigud,compound%1:09:00::,a whole formed by a union of two or more elements or parts,2,1,1,"It can be translated 'compounding', 'mixing', 'composition' or 'compound'."
+rann,parts%1:15:00::,the local environment,2,0,0,"It means 'a part' or 'a piece', not 'parts' plural. It is unclear how this key sense relates to the suggested definition, perhaps from phrases like 'around these parts'. Either way, the definition is incorrect, it has nothing to do with the local environment."
 cedacht,however%4:02:00::,despite anything to the contrary (usually preceding a concession),2,,,
-accomol,conjunction%1:10:00::,an uninflected function word that serves to conjoin words or phrases or clauses or sentences,2,"joining, junction, meeting, union, conjunction",1,
-comṡuidigud,constitution%1:07:00::,the way in which someone or something is composed,6,"compounding, mixing, composition, compound",1,"'Constitution', synonymous with 'composition'."
+accomol,conjunction%1:10:00::,an uninflected function word that serves to conjoin words or phrases or clauses or sentences,2,1,1,"It is used in this way in Sg. though it usually is translated 'joining', 'junction', 'meeting', 'union' or 'conjoining'."
+comṡuidigud,constitution%1:07:00::,the way in which someone or something is composed,6,1,1,"Maybe as a stretch, as it can be translated 'compounding', 'mixing', 'composition' or 'compound', and 'constitution' can be synonymous with 'composition'."
 togarthaid,vocative%1:10:00::,the case (in some inflected languages) used when the referent of the noun is being addressed,4,,,
-rét,thing%1:26:00::,a special situation,2,,,
+rét,thing%1:26:00::,a special situation,2,1,1,
 cóis,cause%1:10:00::,a justification for something existing or happening,2,,,
-.i.,even%4:02:00::,used as an intensive especially to indicate something unexpected,4,"i.e., to wit", "namely",0,
+.i.,even%4:02:00::,used as an intensive especially to indicate something unexpected,4,0,0,"It is an abbreviation meaning 'i.e.', 'to wit' or 'namely'."
 dídnad,consolation%1:12:00::,the comfort you feel when consoled in times of disappointment,4,,,
-delb,paradigm%1:24:00::,systematic arrangement of all the inflected forms of a word,4,"form, shape, figure, appearance, shaping, fashioning, arranging",1,"This one surprised me, but it seems to be used in this manner in Sg., presumably as an extension of the meaning 'shaping' or 'arranging'."
+delb,paradigm%1:24:00::,systematic arrangement of all the inflected forms of a word,4,1,1,"This one surprised me. It is usually translated 'form', 'shape', 'figure', 'appearance', 'shaping', 'fashioning' or 'arranging', but it seems to be used in this manner in Sg., presumably as an extension of the meaning 'shaping' or 'arranging'."
 airdíxa,long%3:00:02::,primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified,3,,,
 saírse,work%1:06:00::,a product produced or accomplished through the effort or activity or agency of a person or thing,2,,,
 sreth,series%1:14:00::,similar things placed in order or happening one after another,2,,,
@@ -437,10 +437,10 @@ saer,free%3:00:00::,not limited or hampered; not under compulsion or restraint,2
 cruthugud,formation%1:04:00::,the act of fabricating something in a particular shape,2,,,
 nem,eden%1:15:00::,any place of complete bliss and delight and peace,2,,,
 cride,heart%1:09:00::,the locus of feelings and intuitions,2,,,
-scríbend,writing%1:10:01::,letters or symbols that are written or imprinted on a surface to represent the sounds or words of a language,3,,1,
-biad,food%1:03:00::,any substance that can be metabolized by an animal to give energy and build tissue,2,,1,
-anim,soul%1:18:00::,the immaterial part of a person; the actuating cause of an individual life,8,,1,
-coitchenn,common%5:00:00:informal:02,being or characteristic of or appropriate to everyday language,3,"common, general, usual, ordinary",1,"I think there are a lot of instances in Sg. where linguistic features are described as 'common' using this word. As the subject matter of Sg. is Latin grammar, this is not unexpected, but the word itself does not necessarily imply anything linguistic as the definition here suggests."
+scríbend,writing%1:10:01::,letters or symbols that are written or imprinted on a surface to represent the sounds or words of a language,3,1,1,
+biad,food%1:03:00::,any substance that can be metabolized by an animal to give energy and build tissue,2,1,1,
+anim,soul%1:18:00::,the immaterial part of a person; the actuating cause of an individual life,8,1,1,
+coitchenn,common%5:00:00:informal:02,being or characteristic of or appropriate to everyday language,3,1,0,"I think there are a lot of instances in Sg. where linguistic features are described as 'common' using this word. As the subject matter of Sg. is Latin grammar, this is not unexpected, but the word itself does not necessarily imply anything linguistic as the definition here suggests. It can be translated 'common', 'general', 'usual' or 'ordinary'."
 sund,herein%4:02:00::,in this place or thing or document,2,,,
 analach,analogy%1:09:00::,an inference that if things agree in some respects they probably agree in others,4,,,
 com dlúthad,syneresis%1:22:00::,the separation of liquid from a gel that is caused by contraction (as in cheese making),2,,,
@@ -449,12 +449,12 @@ antepeneuilt,antepenult%1:10:00::,the 3rd syllable of a word counting back from 
 fofera,cause%2:36:00::,"give rise to; cause to happen or occur, not always intentionally",2,,,
 immfolngai,cause%2:36:00::,"give rise to; cause to happen or occur, not always intentionally",2,,,
 sercaid,lover%1:18:00::,a person who loves someone or is loved by someone,2,,,
-lam bratt,handkerchief%1:06:00::,a square piece of cloth used for wiping the eyes or nose or as a costume accessory,4,,1,"This may be considered a compound, but I think always (arbitrarily) occurs as two separate words in the treebanks, hence is treated like a MWE."
+lam bratt,handkerchief%1:06:00::,a square piece of cloth used for wiping the eyes or nose or as a costume accessory,4,1,1,"This may be considered a compound, but I think always (arbitrarily) occurs as two separate words in the treebanks, hence is treated like a MWE."
 dílmain,permissible%3:00:00::,that may be permitted especially as according to rule,3,,,
 cinnid,specify%2:42:00::,determine the essential quality of,5,,,
-aricc,find%2:40:02::,"come upon, as if by accident; meet with",4,"come upon, meet, find, devise, compose, effect, invent",1,
+aricc,find%2:40:02::,"come upon, as if by accident; meet with",4,1,1,"It can be translated 'come upon', 'meet', 'find', 'devise', 'compose', 'effect' or 'invent'."
 aicned,nature%1:18:00::,a causal agent creating and controlling things in the universe,2,,,
-gnúis,form%1:09:00::,a perceptual structure,2,"kind, form, species",1,
+gnúis,form%1:09:00::,a perceptual structure,2,1,1,"It can be translated 'kind', 'form' or 'species'."
 foditiu,endurance%1:07:00::,the power to withstand hardship or stress,2,,,
 dobeir,give%2:32:01::,"convey, as of a compliment, regards, attention, etc.; bestow",3,1,0,"It can be translated 'give', 'place' or 'bring'. Though I can't entirely rule it out, I can't find an attestation to support this definition."
 arfoím,receive%2:40:00::,get something; come into possession of,3,,,
@@ -463,25 +463,25 @@ dofuthraccair sa,wish%2:37:02::,"to hope, to desire or to prefer to have somethi
 réid,easy%3:00:01::,posing no difficulty; requiring little effort,3,,,
 forbae,completion%1:04:00::,a concluding action,2,,,
 écintech,indefinite%3:00:00::,vague or not clearly defined or stated,3,,,
-caraid,love%2:37:00::,have a great affection or liking for,4,,1,
+caraid,love%2:37:00::,have a great affection or liking for,4,1,1,
 bethu,life%1:26:02::,the course of existence of an individual; the actions and events that occur in living,2,,,
-slond,expression%1:10:02::,expression without words,2,"expressing, mentioning, indicating, signifying",1,"Expression, possibly without words, but not necessarily. In fact, usually with words."
+slond,expression%1:10:02::,expression without words,2,1,0,"'Expression' as a verbal noun. It may be without words, but not necessarily, and in fact, usually indicates verbal communication."
 rechtaire,steward%1:18:00::,someone who manages property or other affairs for someone else,2,,,
-aimser,tense%1:10:00::,a grammatical category of verbs used to express distinctions of time,3,,1,
-medón,midst%1:15:00::,the location of something surrounded by other things,2,,1,
+aimser,tense%1:10:00::,a grammatical category of verbs used to express distinctions of time,3,1,1,
+medón,midst%1:15:00::,the location of something surrounded by other things,2,1,1,
 gibnae,hair%1:08:00::,a covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head); helps to prevent heat loss,2,,,
 for forcongair,order%2:32:02::,issue commands or orders for,2,,,"It is strange that the preverb is repeated for this entry."
 forngaire,command%1:10:00::,an authoritative direction or instruction to do something,3,,,
 foirbthe,perfect%3:00:00::,being complete of its kind and without defect or blemish,4,,,
 rolaimethar,make_bold%2:41:00::,"take upon oneself; act presumptuously, without permission",2,,,
 foslig,smear%2:35:01::,make a smudge on; soil by smudging,2,,,
-bás,death%1:19:00::,the permanent end of all life functions in an organism or part of an organism,4,,1,
+bás,death%1:19:00::,the permanent end of all life functions in an organism or part of an organism,4,1,1,
 dobeir,give%2:40:00::,transfer possession of something concrete or abstract to somebody,6,1,1,"It can be translated 'give', 'place' or 'bring'."
 dígal,vengeance%1:04:00::,the act of taking revenge (harming someone in retaliation for something harmful that they have done) especially in the next life,3,,,
 soilse,light%1:26:01::,a condition of spiritual awareness; divine illumination,2,,,
 díṡruthigud,derivation%1:22:00::,(descriptive linguistics) the process whereby new words are formed from existing words or bases by affixation,3,,,
 adcomla,associate%2:31:00::,make a logical or causal connection,2,0,1,"The correct translation would be 'join' or 'unite'."
-aimser,time%1:03:00::,the continuum of experience in which events pass from the future through the present to the past,6,,1,"Presumably this is a possible meaning, i.e. 'all time', but I can't find it attested with this specific context, though it is attested in reference to relatively long periods of time, e.b. 'an epoch', 'an age'."
+aimser,time%1:03:00::,the continuum of experience in which events pass from the future through the present to the past,6,1,1,"Presumably this is a possible meaning, i.e. 'all time', but I can't find it attested with this specific context, though it is attested in reference to relatively long periods of time, e.b. 'an epoch', 'an age'."
 loc,place%1:09:00::,an abstract mental location,3,1,0,"I'm not even sure what an 'abstract mental location' means. But this means 'location', 'place' or 'position', which I assume must be physical."
 laithirt,hangover%1:26:00::,disagreeable aftereffects from the use of drugs (especially alcohol),2,1,1,"It may be more accurate to translate 'drinking' or 'drunkenness', though McManus writes that a historical (pseudo-?)etymology of the word “shows the basic meaning to be 'excessive ale-consumption' with the logical extensions 'excessive drunkenness' and ' massive hangover', the last probably the meaning intended in the Priscian Ogams [i.e. our dataset]” (Damian McManus, A Guide to Ogam. An Sagart, 1991, reprinted 1997. P. 133.). If the etymology proposed by eDIL is correct, and the word is, in fact, a combination of 'laith' = 'ale/liquor' and 'fiurt' = 'A wonderful work/miracle', then I suspect the interpretation 'hangover', if it ever was intended to be interpreted as such, was meant ironically."
 aicsenugud,causality%1:24:00::,the relation between causes and effects,3,0,0,"It means 'the act of giving a reason' or 'providing an excuse'. Perhaps 'explaining causality' at a stretch, but not 'causality' itself."
@@ -489,22 +489,22 @@ dotét,arrive%2:38:00::,reach a destination; arrive by movement or progress,2,1,
 cocart,correction%1:04:00::,the act of offering an improvement to replace a mistake; setting right,3,1,1,"The definition is correct, but it can also mean the correction itself."
 camm,devious%5:00:00:indirect:02,indirect in departing from the accepted or proper way; misleading,5,,,
 atárcadach,anaphoric%3:01:00::,relating to anaphora,2,,,
-mrechtrad,diverseness%1:07:00::,noticeable heterogeneity,2,"variety, diversity",1,
+mrechtrad,diverseness%1:07:00::,noticeable heterogeneity,2,1,1,"The translation should be 'variety' or 'diversity'."
 écsamlus,diverseness%1:07:00::,noticeable heterogeneity,2,,,
-aricc,invent%2:36:00::,"come up with (an idea, plan, explanation, theory, or principle) after a mental effort",3,"come upon, meet, find, devise, compose, effect, invent",1,
+aricc,invent%2:36:00::,"come up with (an idea, plan, explanation, theory, or principle) after a mental effort",3,1,1,"It can be translated 'come upon', 'meet', 'find', 'devise', 'compose', 'effect' or 'invent'."
 immcomairc,ask%2:32:01::,make a request or demand for something to somebody,2,,,
 foillsigud,demonstration%1:04:01::,a public display of group feelings (usually of a political nature),3,,,
 foraithmet,remembrance%1:09:00::,the ability to recall past occurrences,2,,,
-leth,part%1:09:02::,that which concerns a person with regard to a particular role or situation,4,,0,"I think the it's getting confused because of the common phrase 'rann fo leith' = 'a separate part', where 'rann' means 'part', not 'leth'"
+leth,part%1:09:02::,that which concerns a person with regard to a particular role or situation,4,0,0,"I think the it's getting confused because of the common phrase 'rann fo leith' = 'a separate part', where 'rann' means 'part', not 'leth'."
 aitrebthaid,owner%1:18:02::,a person who owns something,7,,,
 atárcud,epanaphora%1:10:00::,repetition of a word or phrase at the beginning of successive clauses,4,,,
-attá,be%2:42:05::,occupy a certain position or area; be somewhere,3,,1,"This is certainly a possible meaning for the substantive verb."
+attá,be%2:42:05::,occupy a certain position or area; be somewhere,3,1,1,"This is certainly a possible definition for the substantive verb."
 césad,rage%1:26:02::,something that is desired intensely,2,,,
 accuis,cause%1:11:00::,events that provide the generative force that is the origin of something,2,,,
 tosach,beginning%1:11:00::,the event consisting of the start of something,2,,,
 fogní,interpret%2:31:00::,make sense of; assign a meaning to,3,,,
 fillid,inflect%2:32:01::,change the form of a word in accordance as required by the grammatical rules of the language,2,,,
-scríbaid,write%2:36:00::,produce a literary work,2,,1,
+scríbaid,write%2:36:00::,produce a literary work,2,1,1,
 etercert,interpretation%1:09:01::,a mental representation of the meaning or significance of something,3,,,
 foillsigthech,demonstrative%3:00:00::,given to or marked by the open expression of emotion,2,,,
 doairngir,promise%2:32:00::,make a promise or commitment,2,,,
@@ -515,49 +515,49 @@ doérig,abandon%2:31:00::,leave someone who needs or counts on you; leave in the
 graif,grave_accent%1:10:00::,a mark (‘) placed above a vowel to indicate pronunciation,4,,,
 comaccomol,concurrence%1:07:00::,the temporal property of two things happening at the same time,2,,,
 sechtardae,externally%4:02:01::,on or from the outside,2,,,
-dub,ink%1:27:01::,a liquid used for printing or writing or drawing,2,,1,
+dub,ink%1:27:01::,a liquid used for printing or writing or drawing,2,1,1,
 nert,force%1:07:00::,physical energy or intensity,3,,,
 locdatu,vicinity%1:15:00::,a surrounding or nearby region,2,,,
 crích,boundary%1:15:00::,the line or plane indicating the limit or extent of something,2,,,
 aiccent,stress%1:10:01::,the relative prominence of a syllable or musical note (especially with regard to stress or pitch),2,,,
 nert,force%1:19:00::,(physics) the influence that produces a change in a physical quantity,2,,,
-creitid,believe%2:31:01::,follow a credo; have a faith; be a believer,2,"believe",1,
+creitid,believe%2:31:01::,follow a credo; have a faith; be a believer,2,1,1,
 torbae,profit%1:07:00::,the advantageous quality of being beneficial,3,,,
-creitid,believe%2:31:00::,accept as true; take to be true,5,"believe",1,
-foirbthetu,perfection%1:26:00::,the state of being without a flaw or defect,5,,1,
+creitid,believe%2:31:00::,accept as true; take to be true,5,1,1,
+foirbthetu,perfection%1:26:00::,the state of being without a flaw or defect,5,1,1,
 airlam,ready%3:00:00::,completely prepared or in condition for immediate action or use or progress,2,,,
-soiscélae,gospel%1:10:00::,"the four books in the New Testament (Matthew, Mark, Luke, and John) that tell the story of Christ's life and teachings",6,,1,
-olc,evil%1:04:00::,morally objectionable behavior,2,,1,
+soiscélae,gospel%1:10:00::,"the four books in the New Testament (Matthew, Mark, Luke, and John) that tell the story of Christ's life and teachings",6,1,1,
+olc,evil%1:04:00::,morally objectionable behavior,2,1,1,
 dígal,punishment%1:04:00::,"the act of punishing, or the infliction of a penalty",5,,,
 maith,thing%1:04:00::,an action,2,0,0,"It means 'good'."
 mesrugud,moderation%1:07:00::,quality of being moderate and avoiding extremes,2,,,
-peccad,sin%1:04:00::,an act that is regarded by theologians as a transgression of God's will,4,,1,
+peccad,sin%1:04:00::,an act that is regarded by theologians as a transgression of God's will,4,1,1,
 cuimrech,alliance%1:24:00::,a connection based on kinship or marriage or common interest,2,,,
 maith,good%1:07:01::,moral excellence or admirableness,2,1,1,
-pridchid,preach%2:32:02::,deliver a sermon,3,,1,
+pridchid,preach%2:32:02::,deliver a sermon,3,1,1,
 forcetlid,teacher%1:18:00::,a person whose occupation is teaching,4,,,
 imdibe,circumcision%1:04:00::,the act of circumcising; surgical removal of the foreskin of males,3,,,
-cenn,behalf%1:04:00::,as the agent of or on someone's part (usually expressed as ‘on behalf of’ rather than ‘in behalf of’),2,,0,"The phrase 'dar [bar] cenn' can mean 'on [your] behalf' (lit. above [your] head), but 'cenn' alone just means 'head'."
+cenn,behalf%1:04:00::,as the agent of or on someone's part (usually expressed as ‘on behalf of’ rather than ‘in behalf of’),2,0,0,"The phrase 'dar [bar] cenn' can mean 'on [your] behalf' (lit. above [your] head), but 'cenn' alone just means 'head'."
 cosmail,like%3:00:00::,resembling or similar; having the same or some of the same characteristics; often used in combination,2,,,
 íarmifoich,search%2:35:00::,"try to locate or discover, or try to establish the existence of",2,,,
 fírinne,righteousness%1:07:00::,adhering to moral principles,6,,,
-fuil,blood%1:08:00::,"the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets",2,,1,
+fuil,blood%1:08:00::,"the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets",2,1,1,
 dodcad,misfortune%1:11:00::,unnecessary and unforeseen trouble resulting from an unfortunate event,2,,,
 íccaid,salvage%2:41:00::,"save from ruin, destruction, or harm",3,,,
-cretem _,belief%1:09:00::,any cognitive content held as true,2,"belief, faith, religion, believing",1,"Why is there an underscore?"
+cretem _,belief%1:09:00::,any cognitive content held as true,2,1,1,"'cretem' can be translated 'belief', 'faith', 'religion' or 'believing'. The underscore in the lemma is an error."
 ícc,redemption%1:04:01::,(theology) the act of delivering from sin or saving from evil,6,,,
-gním,works%1:04:00::,performance of moral or religious acts,2,"deed, act, activity, work",1,"Performance of an act, not plural. Also, the act does not need to be moral or religious."
+gním,works%1:04:00::,performance of moral or religious acts,2,0,0,"It can mean an 'act', 'deed', 'activity' or 'work', not plural. Also, the act does not need to be moral or religious."
 colinn,human_body%1:08:00::,alternative names for the body of a human being,4,,,
 colnide,animal%5:00:00:physical:00,marked by the appetites and passions of the body,2,,,
 comalnaithir,carry_through%2:36:00::,put in effect,9,,,
-tairngire,promise%1:09:00::,grounds for feeling hopeful about the future,2,,,
-tairngire _,promise%1:09:00::,grounds for feeling hopeful about the future,2,"promise, prophecy",1,"Duplicate of another entry with underscore for some reason."
+tairngire,promise%1:09:00::,grounds for feeling hopeful about the future,2,1,0,"It means promise in the sense of a statement of assurance, or commitment."
+tairngire _,promise%1:09:00::,grounds for feeling hopeful about the future,2,1,0,"This is an exact duplicate of the entry above with an erronious underscore for some reason."
 iressach,faithful%3:00:00::,steadfast in affection or allegiance,2,,,
 bás,death%1:11:00::,the event of dying or departure from life,4,,1,
-lá,day%1:28:03::,a point or period in time,2,,1,"'lá' can be used with the meaning 'when' or 'once' as suggested here, but it seems idiomatic."
+lá,day%1:28:03::,a point or period in time,2,1,1,"'lá' can be used with the meaning 'a point in time', e.g. 'co laa Poil' = 'until Paul's time' (Wb. 5b4)."
 coibse,confession%1:04:00::,(Roman Catholic Church) the act of a penitent disclosing their sinfulness before a priest in the sacrament of penance in the hope of absolution,2,,,
 foídid,send%2:38:01::,cause to go somewhere,2,,,
-is,send%2:38:01::,cause to go somewhere,2,,0,"This is the copula. It does not mean 'send'."
+is,send%2:38:01::,cause to go somewhere,2,0,0,"This is the copula. It does not mean 'send'."
 bél,lip%1:08:00::,either of two fleshy folds of tissue that surround the mouth and play a role in speaking,2,,1,
 precept,teaching%1:04:00::,the profession of a teacher,5,,,
 forcetal,teaching%1:04:00::,the profession of a teacher,2,,,
@@ -565,13 +565,13 @@ guidid,pray%2:32:00::,"address a deity, a prophet, a saint or an object of worsh
 for forcain,teach%2:32:00::,impart skills or knowledge to,3,,,"It is strange that the preverb is repeated for this entry."
 báeth,simpleton%1:18:00::,a person lacking intelligence or common sense,2,,,
 nóib,holy%3:00:00::,belonging to or derived from or associated with a divine power,2,,1,
-precept,education%1:04:00::,the activities of educating or instructing; activities that impart knowledge or skill,2,"preaching",0,"Not specific enough. It means 'preaching' or 'teaching' of religious material."
+precept,education%1:04:00::,the activities of educating or instructing; activities that impart knowledge or skill,2,0,0,"Not specific enough. It means 'preaching' or 'teaching' of religious material."
 fochaid,agony%1:26:00::,a state of acute pain,3,,,
 fochaid,suffering%1:26:01::,misery resulting from affliction,2,,,
-is,look%2:39:01::,give a certain impression of being something or having a certain aspect,3,,0,"This is the copula. It does not mean 'to look like/as though'."
+is,look%2:39:01::,give a certain impression of being something or having a certain aspect,3,0,0,"This is the copula. It does not mean 'to look like/as though'."
 féchem,debtor%1:18:00::,a person who owes a creditor; someone who has the obligation of paying a debt,2,,,
-caindleóir,candle%1:06:00::,stick of wax with a wick in the middle,2,"candle-bearer",0,"I think it can mean 'candlestick' or perhaps some sort of candle holder or receptacle, but this meaning does not occur in our corpus, and I can only find it attested in later texts."
-caindleóir,carrier%1:18:03::,someone whose employment involves carrying something,2,"candle-bearer",1,"The definition is not specific enough. It is a role in the church, but it specifically involves carrying a candle."
+caindleóir,candle%1:06:00::,stick of wax with a wick in the middle,2,0,0,"It should be translated 'candle-bearer' or 'acolyte'. I think it can mean 'candlestick' or perhaps some sort of candle holder or receptacle, but this meaning does not occur in our corpus, and I can only find it attested in later texts."
+caindleóir,carrier%1:18:03::,someone whose employment involves carrying something,2,0,1,"It should be translated 'candle-bearer' or 'acolyte'. The definition is not specific enough. It is a role in the church, but it specifically involves carrying a candle."
 laithe,judgment_day%1:28:00::,(New Testament) day at the end of time following Armageddon when God will decree the fates of all individual humans according to the good and evil of their earthly lives,2,,,
 ainmnetach,patient%3:00:00::,enduring trying circumstances with even temper or characterized by such endurance,2,,,
 grád,order%1:10:03::,"(often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed",4,,,
@@ -579,13 +579,13 @@ doairngir,promise%2:32:01::,promise to undertake or give,3,,,
 foácaib,leave%2:31:05::,"go and leave behind, either intentionally or by neglect or forgetfulness",2,,,
 senchas,narrative%1:10:00::,a message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program,2,,,
 teist,testimony%1:10:01::,an assertion offering firsthand authentication of a fact,2,,,
-airitiu,pickings%1:04:00::,the act of someone who picks up or takes something,2,"receiving, accepting",1,"The translation seems incorrect, but the definition could, at least loosely, match the correct translation, 'receiving'."
-gním,work%1:04:00::,activity directed toward making or doing something,2,"deed, act, activity, work",1,
-aingel,angel%1:18:00::,spiritual being attendant upon God,3,,1,
+airitiu,pickings%1:04:00::,the act of someone who picks up or takes something,2,0,1,"The translation is incorrect. It can be translated 'receiving' or 'accepting'. However, the definition could, at least loosely, match the correct translation, 'receiving'."
+gním,work%1:04:00::,activity directed toward making or doing something,2,1,1,"It can be translated 'deed', 'act', 'activity' or 'work'."
+aingel,angel%1:18:00::,spiritual being attendant upon God,3,1,1,
 doínecht,manhood%1:26:00::,the state of being a man; manly qualities,2,,,
 pecthach,sinner%1:18:00::,a person who sins (without repenting),2,,,
-popul,people%1:14:00::,(plural) any group of human beings (men or women or children) collectively,3,,1,
+popul,people%1:14:00::,(plural) any group of human beings (men or women or children) collectively,3,1,1,
 nuiednisse,testament%1:09:00::,a profession of belief,3,,,
 cumsanad do,remainder%1:24:00::,something left after other parts have been taken away,3,,,
 cumsanad,remainder%1:24:00::,something left after other parts have been taken away,2,,,
-sacart,priest%1:18:00::,a clergyman in Christian churches who has the authority to perform or administer various religious rites; one of the Holy Orders,2,,1,
+sacart,priest%1:18:00::,a clergyman in Christian churches who has the authority to perform or administer various religious rites; one of the Holy Orders,2,1,1,
