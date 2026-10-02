@@ -135,6 +135,22 @@ Editor](https://github.com/jmccrae/ewe).
   same way, so translating one creates many hypernym links at once
   instead of one link per translation.
 
+## Downloads
+
+`downloads.toml` configures EWE's Downloads page. Each `[[release]]` also
+pins the `commit` it is built from. `scripts/build_downloads.py` builds the
+listed files from that commit's `src/` into `downloads/`, which is
+git-ignored. It builds the YAML source zip, gzipped WN-LMF XML and gzipped
+RDF/Turtle. The script finds EWE through the `EWE` environment variable,
+which can point to the `ewe-cli` binary or to an
+[ewe](https://github.com/jmccrae/ewe) checkout with a release build. If
+`EWE` is not set, the script uses `ewe-cli` from the `PATH`.
+
+```bash
+uv run scripts/build_downloads.py add 0.2 --commit <sha>  # defaults to HEAD
+EWE=~/projects/jmccrae/ewe uv run scripts/build_downloads.py build  # missing files only; --force rebuilds
+```
+
 ## Development
 
 This project uses [uv](https://docs.astral.sh/uv/) for dependency

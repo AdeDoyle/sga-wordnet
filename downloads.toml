@@ -1,0 +1,24 @@
+# Configuration for the EWE Wordnet Editor's Downloads page (see
+# ewe_dioxus/downloads.toml.example in https://github.com/jmccrae/ewe).
+#
+# Each [[release]] also pins the `commit` it is built from, which EWE
+# ignores. The files themselves are generated into `downloads_dir`
+# (git-ignored) by scripts/build_downloads.py:
+#
+#   uv run scripts/build_downloads.py add VERSION [--commit REV]
+#   EWE=/path/to/ewe uv run scripts/build_downloads.py build [VERSION ...]
+#
+# Releases are listed newest first.
+
+downloads_dir = "downloads"
+
+[[release]]
+version = "0.1"
+commit = "9c13824adf8bb91f2c6d0a158d1e5383e8fe8561"
+date = "2026-09-25"
+description = "Old Irish Wordnet 0.1"
+files = [
+    { filename = "sga-wordnet-0.1.zip", format = "YAML source", description = "Full source in YAML format" },
+    { filename = "sga-wordnet-0.1.xml.gz", format = "WN-LMF XML", description = "WordNet LMF XML dump (gzipped)" },
+    { filename = "sga-wordnet-0.1.ttl.gz", format = "RDF/Turtle", description = "RDF Turtle dump (gzipped)" },
+]
