@@ -318,46 +318,46 @@ torbae,net_income%1:21:00::,the excess of revenues over outlays in a given perio
 lán,full%5:00:00:nourished:00,filled to satisfaction with food or drink,2,0,0,"I can't find any attestation to support the definition. The translation 'full' is fine, but 'nourished' is not."
 trebar,prudent%3:00:00::,careful and sensible; marked by sound judgment,2,1,1,
 airdíxa,long%3:00:01::,primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified,3,1,0,"It refers to length of vowels."
-peneuilt,penult%1:10:00::,the next to last syllable in a word,5,,,
-asingaib,exceed%2:42:01::,be greater in scope or size than some standard,4,,,
-éicen,need%1:26:00::,a condition requiring relief,2,,,
+peneuilt,penult%1:10:00::,the next to last syllable in a word,5,1,1,
+asingaib,exceed%2:42:01::,be greater in scope or size than some standard,4,1,1,
+éicen,need%1:26:00::,a condition requiring relief,2,1,1,"'Need' is a very lose translation here. It is usually translated 'compulsion' or 'necessity'. This can be extended to either 'need' or to 'force'/'violence'. Most of the examples in our dataset translate 'necessary' with 'need' and 'violence' occurring only rarely, so it's unclear why 'need' has been selected as the only translation here."
 macc,male_child%1:18:00::,a youthful male person,2,1,1,"More commonly translated 'son', but this is possible also."
 ungae,ounce%1:23:02::,a unit of apothecary weight equal to 480 grains or one twelfth of a troy pound,2,1,1,
 póc,kiss%1:04:00::,the act of caressing with the lips (or an instance thereof),2,1,1,
-tindnacol,gift%1:21:00::,something acquired without compensation,2,,,
+tindnacol,gift%1:21:00::,something acquired without compensation,2,1,1,
 luib,plant%1:06:01::,buildings for carrying on industrial labor,3,0,0,"It means plant in the sense of vegitation."
-ith,grain%1:17:00::,a relatively small granular particle of a substance,2,,,
-biáil,ax%1:06:00::,an edge tool with a heavy bladed head mounted across a handle,2,,,
-croicenn,skin%1:08:00::,a natural protective body covering and site of the sense of touch,2,,,
+ith,grain%1:17:00::,a relatively small granular particle of a substance,2,1,0,"The definition is wrong. It means 'grain' or 'corn', not just anything small or granular."
+biáil,ax%1:06:00::,an edge tool with a heavy bladed head mounted across a handle,2,1,1,"Apparently 'ax' is an accepted alternative spelling in US English (alone), but I think it's probably more appropriate here to use 'axe', which is accepted everywhere, including the US."
+croicenn,skin%1:08:00::,a natural protective body covering and site of the sense of touch,2,1,1,
 dogní,make%2:30:00::,give certain properties to something,3,1,0,"It can be translated either 'make' or 'do'. I'm not sure how the definition equates to the concept of 'making' something, even in English. I'd have to see the examples this definition is based on."
 ingen,nail%1:08:00::,horny plate covering and protecting part of the dorsal surface of the digits,2,1,1,"This is a homonym with the much more common/basic/important term, 'ingen' = 'daughter', 'girl' or 'maiden', which appears to be unrepresented."
 glún,knee%1:08:00::,hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella,2,1,1,
 cenn,head%1:08:00::,the upper part of the human body or the front part of the body in animals; contains the face and brains,2,1,1,
-dris,scrub%1:14:00::,dense vegetation consisting of stunted trees or bushes,2,,,
-fochraic,wages%1:11:00::,a recompense for worthy acts or retribution for wrongdoing,3,,,
+dris,scrub%1:14:00::,dense vegetation consisting of stunted trees or bushes,2,1,1,"This shows up three times in Sg., each time translated 'thorn-bush' or 'thorn', either of which are more accurate in the contexts used. So, I can't understand why the process resulted in this alternative translation, which is permissible but doesn't seem as accurate to me. I'd prefer to translate 'thorn-bush', 'bramble' or 'briar'."
+fochraic,wages%1:11:00::,a recompense for worthy acts or retribution for wrongdoing,3,0,1,"I think the concept of 'wages' is too modern to be an appropriate translation here. I'd translate 'payment', or 'reward'."
 míl,soldier%1:18:00::,an enlisted man or woman who serves in an army,2,1,1,
-richis,ember%1:17:00::,a hot fragment of wood or coal that is left from a fire and is glowing or smoldering,2,,,
+richis,ember%1:17:00::,a hot fragment of wood or coal that is left from a fire and is glowing or smoldering,2,1,1,
 fairge,sea%1:17:00::,a division of an ocean or a large body of salt water partially enclosed by land,2,1,1,
 muir,sea%1:17:00::,a division of an ocean or a large body of salt water partially enclosed by land,2,1,1,
 tír _,land%1:17:01::,material in the top layer of the surface of the earth in which plants can grow (especially with reference to its quality or use),2,1,1,"This is an exact duplicate of the entry below, except for the erronious underscore in the lemma."
 tír,land%1:17:01::,material in the top layer of the surface of the earth in which plants can grow (especially with reference to its quality or use),2,1,1,"It can be translated 'land', 'territory' or 'ground'."
-emnad,doubling%1:22:00::,increase by a factor of two,4,,,
-lóthar,bathtub%1:06:00::,a relatively large open container that you fill with water and use to wash the body,2,,,
-consuidigedar,intensify%2:30:01::,"make more intense, stronger, or more marked",2,,,
-cucann,kitchen%1:06:00::,a room equipped for preparing meals,3,,,
-sochuide,battalion%1:23:00::,a large indefinite quantity,2,,,
-caill,wood%1:27:00::,the hard fibrous lignified substance under the bark of trees,3,,,
-druimmchlae,ceiling%1:06:00::,the overhead upper surface of a covered space,2,,,
-druimmchlí,ceiling%1:06:00::,the overhead upper surface of a covered space,2,,,
-senatóir,senator%1:18:00::,a member of a senate,2,,,
-óinechaid,rider%1:18:00::,a traveler who actively rides an animal (as a horse or camel),2,,,
+emnad,doubling%1:22:00::,increase by a factor of two,4,1,1,
+lóthar,bathtub%1:06:00::,a relatively large open container that you fill with water and use to wash the body,2,0,0,"It just means 'tub' or 'trough', it does not necessarily imply bathing."
+consuidigedar,intensify%2:30:01::,"make more intense, stronger, or more marked",2,0,0,"It should be translated to 'compound', as it is in all cases in our dataset."
+cucann,kitchen%1:06:00::,a room equipped for preparing meals,3,1,1,
+sochuide,battalion%1:23:00::,a large indefinite quantity,2,0,0,"The general sense of the word is a 'crowd', 'congregation' or 'multitude' of people. It can be translated 'army' or 'host', but 'batallion' is too modern, and too specific, to be appropriate. As to the definition, it is not specific enough. It must be a large indefinite quantity of people."
+caill,wood%1:27:00::,the hard fibrous lignified substance under the bark of trees,3,1,0,"It means 'wood' in the sense 'a forrest', not the material."
+druimmchlae,ceiling%1:06:00::,the overhead upper surface of a covered space,2,1,0,"It means 'roof' rather than 'ceiling', though it can be translated 'ceiling' by extension, i.e. the general interior/underside of a roof, including support beams, rafters, coffers, caissons, lacunae, etc. Nevertheless, while the translation is permissible, the definition seems anachronistic as it refers to a very modern kind of 'ceiling'. The only example of this word referring to ceilings in our dataset is glossing Latin 'lacunar' = 'a pannelled ceiling', which in this context probably means the pannelled interior of the roof itself in Roman architecture, not a covered overhead (flat) surface."
+druimmchlí,ceiling%1:06:00::,the overhead upper surface of a covered space,2,1,0,"Apparently taken as an alternative spelling for 'druimmchlae' (see above), this variant occurs twice in Sg., each time glossing Latin 'laquear' = 'pannelled ceiling', so I'm inclined to criticise the definition here in the same manner."
+senatóir,senator%1:18:00::,a member of a senate,2,1,1,
+óinechaid,rider%1:18:00::,a traveler who actively rides an animal (as a horse or camel),2,1,1,
 sulbaire,cheerfulness%1:07:00::,the quality of being cheerful and dispelling gloom,2,1,1,
-medón,middle%1:28:00::,the point between the beginning and the end of a temporal period or process,2,,,
-testimin,time_period%1:28:00::,an amount of time,3,,,
-dia,today%1:28:00::,the present time or age,3,,,
-arfoím,assume%2:31:00::,take to be the case or to be true; accept without verification or proof,3,,,
+medón,middle%1:28:00::,the point between the beginning and the end of a temporal period or process,2,1,1,
+testimin,time_period%1:28:00::,an amount of time,3,0,0,"It should be translated 'text' or 'testimony'. I can only find it attested with the meaning 'period' in MWEs like 'iar testemin' = 'end of the period' or 'medón testemin' = 'middle of the period', which I believe are idiomatic."
+dia,today%1:28:00::,the present time or age,3,0,0,"It just means 'day'. The confusion is clearly based on its common usage in the term 'indiu', which is a MWE in UD treebanks (i [ADP = 'in'] + dia = i n-diu = 'today')."
+arfoím,assume%2:31:00::,take to be the case or to be true; accept without verification or proof,3,1,1,
 ad adcomla,join%2:35:01::,cause to become joined or linked,2,1,1,"It is strange that the preverb is repeated for this entry. 'adcomla' alone means 'join' or 'unite'."
-tuisel,case%1:11:00::,an occurrence of something,15,,,
+tuisel,case%1:11:00::,an occurrence of something,15,1,0,"It only means grammatical case. Otherwise, translations can include 'fall', 'stumble', and 'accident'."
 forbart,increase%1:11:00::,a change resulting in an increase,3,,,
 dub,dark%3:00:02::,(used of color) having a dark hue,2,,,
 comdelb,conformity%1:07:02::,correspondence in form or appearance,2,,,
@@ -378,7 +378,7 @@ gníid,act%2:41:00::,"perform an action, or work out or perform (an action)",3,1
 rann,piece%1:06:05::,an item that is an instance of some type,2,1,1,"A better translation might be 'part' or 'division'."
 neph corpdae,incorporeal%3:00:00::,without material form or substance,2,1,1,"This may be considered a compound rather than a MWE, as here, but I think the treebanks treat all instances of prefix 'neph-' as a separate word."
 lán,full%3:00:00::,containing as much or as many as is possible or normal,2,1,1,
-ith,corn%1:20:02::,the dried grains or kernels or corn used as animal feed or ground for meal,5,,,
+ith,corn%1:20:02::,the dried grains or kernels or corn used as animal feed or ground for meal,5,1,1,
 dofuisim,generate%2:36:00::,"produce, create",2,,,
 articol,article%1:10:01::,(grammar) a determiner that may indicate the specificity of reference of a noun phrase,9,,,
 engraicigidir,assume%2:30:00::,"take on a certain form, attribute, or aspect",3,,,
@@ -405,7 +405,7 @@ cochae,buttock%1:08:00::,either of the two large fleshy masses of muscular tissu
 cuit,respect%1:09:00::,(usually preceded by ‘in’) a detail or point,2,,,
 rind,constellation%1:17:00::,a configuration of stars as seen from the earth,3,,,
 cáith,chaff%1:27:00::,material consisting of seed coverings and small pieces of stem or leaves that have been separated from the seeds,2,,,
-cucann,provision%1:10:00::,a stipulated condition,3,,,
+cucann,provision%1:10:00::,a stipulated condition,3,1,0,"It means 'provision' in the sense 'a ration of food'."
 aicned,nature%1:17:00::,the natural physical world including plants and animals and landscapes etc.,4,,,
 loan,fat%1:27:00::,a soft greasy substance occurring in organic tissue and consisting of a mixture of lipids (mostly triglycerides),2,,,
 sommae,rich%3:00:00::,possessing material wealth,3,,,
@@ -445,7 +445,7 @@ sund,herein%4:02:00::,in this place or thing or document,2,,,
 analach,analogy%1:09:00::,an inference that if things agree in some respects they probably agree in others,4,,,
 com dlúthad,syneresis%1:22:00::,the separation of liquid from a gel that is caused by contraction (as in cheese making),2,,,
 tóbae,conciseness%1:10:00::,terseness and economy in writing and speaking achieved by expressing a great deal in just a few words,3,,,
-antepeneuilt,antepenult%1:10:00::,the 3rd syllable of a word counting back from the end,3,,,
+antepeneuilt,antepenult%1:10:00::,the 3rd syllable of a word counting back from the end,3,1,1,
 fofera,cause%2:36:00::,"give rise to; cause to happen or occur, not always intentionally",2,,,
 immfolngai,cause%2:36:00::,"give rise to; cause to happen or occur, not always intentionally",2,,,
 sercaid,lover%1:18:00::,a person who loves someone or is loved by someone,2,,,
@@ -457,7 +457,7 @@ aicned,nature%1:18:00::,a causal agent creating and controlling things in the un
 gnúis,form%1:09:00::,a perceptual structure,2,1,1,"It can be translated 'kind', 'form' or 'species'."
 foditiu,endurance%1:07:00::,the power to withstand hardship or stress,2,,,
 dobeir,give%2:32:01::,"convey, as of a compliment, regards, attention, etc.; bestow",3,1,0,"It can be translated 'give', 'place' or 'bring'. Though I can't entirely rule it out, I can't find an attestation to support this definition."
-arfoím,receive%2:40:00::,get something; come into possession of,3,,,
+arfoím,receive%2:40:00::,get something; come into possession of,3,1,1,
 césad,passion%1:12:02::,a feeling of strong sexual desire,2,,,
 dofuthraccair sa,wish%2:37:02::,"to hope, to desire or to prefer to have something, or to do something",2,,,
 réid,easy%3:00:01::,posing no difficulty; requiring little effort,3,,,
