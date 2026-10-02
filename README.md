@@ -160,3 +160,10 @@ management.
 uv sync
 uv run main.py
 ```
+
+## License
+
+The wordnet is released under the [Creative Commons Attribution 4.0
+International](https://creativecommons.org/licenses/by/4.0/) license (see
+`LICENSE`), the same license as the Open English Wordnet it extends. The
+logo in `branding/` has its own license, given above.

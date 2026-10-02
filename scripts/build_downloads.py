@@ -5,7 +5,7 @@ plus one extra key per [[release]], `commit`, naming the git revision that relea
 built from - EWE ignores keys it doesn't know, so the same file serves both purposes.
 Each file's kind is inferred from its filename:
 
-    *.zip      the YAML source (src/) at that commit
+    *.zip      the YAML source (src/, plus LICENSE) at that commit
     *.xml.gz   WN-LMF XML, via `ewe-cli export xml`
     *.ttl.gz   RDF/Turtle, via `ewe-cli export rdf --format turtle`
     *.rdf.gz   RDF/XML, via `ewe-cli export rdf --format rdf-xml`
@@ -153,8 +153,13 @@ def build_release(release: dict, downloads_dir: Path, force: bool) -> None:
             print(f"Release {version}: building {filename}")
             if kind == "yaml":
                 prefix = filename.removesuffix(".zip") + "/"
+                # LICENSE was added after the first commits, so only include it if present
+                paths = [
+                    "src",
+                    *git("ls-tree", "--name-only", commit, "LICENSE").split(),
+                ]
                 git("archive", "--format=zip", f"--prefix={prefix}", "-o", str(out),
-                    commit, "src")  # fmt: skip
+                    commit, *paths)  # fmt: skip
                 continue
             plain = tmp / filename.removesuffix(".gz")
             export(kind, tmp / "src" / "yaml", plain, version)

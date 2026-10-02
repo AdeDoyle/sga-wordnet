@@ -13,6 +13,7 @@ project_name = "Old Irish Wordnet"
 tagline = "A wordnet for Old Irish (sga), extended from the Open English Wordnet"
 contact_email = "johnmccrae@gmail.com"
 source_url = "https://github.com/jmccrae/sga-wordnet"
+base_url = "https://goidelc.teanga.io/"
 
 # EWE no longer supports a per-project theme.css (see jmccrae/ewe#45) - restyling is now this
 # [theme] table of CSS custom-property overrides on top of the app's own bundled defaults.
