@@ -558,34 +558,34 @@ lá,day%1:28:03::,a point or period in time,2,1,1,"'lá' can be used with the me
 coibse,confession%1:04:00::,(Roman Catholic Church) the act of a penitent disclosing their sinfulness before a priest in the sacrament of penance in the hope of absolution,2,1,1,
 foídid,send%2:38:01::,cause to go somewhere,2,1,1,
 is,send%2:38:01::,cause to go somewhere,2,0,0,"This is the copula. It does not mean 'send'."
-bél,lip%1:08:00::,either of two fleshy folds of tissue that surround the mouth and play a role in speaking,21,
-precept,teaching%1:04:00::,the profession of a teacher,5,,,
-forcetal,teaching%1:04:00::,the profession of a teacher,2,,,
-guidid,pray%2:32:00::,"address a deity, a prophet, a saint or an object of worship; say a prayer",2,,,
-for forcain,teach%2:32:00::,impart skills or knowledge to,3,,,"It is strange that the preverb is repeated for this entry."
-báeth,simpleton%1:18:00::,a person lacking intelligence or common sense,2,,,
+bél,lip%1:08:00::,either of two fleshy folds of tissue that surround the mouth and play a role in speaking,2,1,1,
+precept,teaching%1:04:00::,the profession of a teacher,5,0,0,"Not specific enough. It means 'preaching' or 'teaching' of religious material."
+forcetal,teaching%1:04:00::,the profession of a teacher,2,1,1,
+guidid,pray%2:32:00::,"address a deity, a prophet, a saint or an object of worship; say a prayer",2,1,1,
+for forcain,teach%2:32:00::,impart skills or knowledge to,3,1,1,"It is strange that the preverb is repeated for this entry."
+báeth,simpleton%1:18:00::,a person lacking intelligence or common sense,2,1,1,"Translation is not inaccurate, but should probably be stronger, like 'fool' or 'idiot'. It glosses Latin 'idiotae' in Wb."
 nóib,holy%3:00:00::,belonging to or derived from or associated with a divine power,2,1,1,
 precept,education%1:04:00::,the activities of educating or instructing; activities that impart knowledge or skill,2,0,0,"Not specific enough. It means 'preaching' or 'teaching' of religious material."
-fochaid,agony%1:26:00::,a state of acute pain,3,,,
-fochaid,suffering%1:26:01::,misery resulting from affliction,2,,,
+fochaid,agony%1:26:00::,a state of acute pain,3,0,1,"Can't find it attested with this translation. If translated 'suffering' then the definition works. The lemma appears as 'fochith' in the UD corpora and WB. website, so should probably be changed here. 'fochaid' is the eDIL headword."
+fochaid,suffering%1:26:01::,misery resulting from affliction,2,1,1,"The lemma appears as 'fochith' in the UD corpora and WB. website, so should probably be changed here. 'fochaid' is the eDIL headword."
 is,look%2:39:01::,give a certain impression of being something or having a certain aspect,3,0,0,"This is the copula. It does not mean 'to look like/as though'."
-féchem,debtor%1:18:00::,a person who owes a creditor; someone who has the obligation of paying a debt,2,,,
+féchem,debtor%1:18:00::,a person who owes a creditor; someone who has the obligation of paying a debt,2,1,1,
 caindleóir,candle%1:06:00::,stick of wax with a wick in the middle,2,0,0,"It should be translated 'candle-bearer' or 'acolyte'. I think it can mean 'candlestick' or perhaps some sort of candle holder or receptacle, but this meaning does not occur in our corpus, and I can only find it attested in later texts."
 caindleóir,carrier%1:18:03::,someone whose employment involves carrying something,2,0,1,"It should be translated 'candle-bearer' or 'acolyte'. The definition is not specific enough. It is a role in the church, but it specifically involves carrying a candle."
 laithe,judgment_day%1:28:00::,(New Testament) day at the end of time following Armageddon when God will decree the fates of all individual humans according to the good and evil of their earthly lives,2,0,0,"This would require a MWE, as in 'dilaithiu brátho' = 'of doomsday' (Wb. 25d20). Alone, however, 'laithe' just means 'day'."
-ainmnetach,patient%3:00:00::,enduring trying circumstances with even temper or characterized by such endurance,2,,,
-grád,order%1:10:03::,"(often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed",4,,,
+ainmnetach,patient%3:00:00::,enduring trying circumstances with even temper or characterized by such endurance,2,1,1,
+grád,order%1:10:03::,"(often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed",4,0,0,"It means 'grade', 'degree', or 'rank'. It can only (rarely) be translated 'orders' in the plural, and in the sense 'ecclesiastical orders'. I wouldn't accept the translation 'order' in the singular, though, nor the definition here."
 doairngir,promise%2:32:01::,promise to undertake or give,3,1,1,"Again, using the word being defined in the definition seems a problem to me, even if it's technically accurate."
-foácaib,leave%2:31:05::,"go and leave behind, either intentionally or by neglect or forgetfulness",2,,,
-senchas,narrative%1:10:00::,a message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program,2,,,
-teist,testimony%1:10:01::,an assertion offering firsthand authentication of a fact,2,,,
+foácaib,leave%2:31:05::,"go and leave behind, either intentionally or by neglect or forgetfulness",2,1,1,"The definition seems possible, but it does just mean 'leave' more generally, as in to go away somewhere, without any necessary connotations of abandonment."
+senchas,narrative%1:10:00::,a message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program,2,1,1,"This is a very particular term, and 'narrative' is too broad as a translation. It means something like 'traditional law', 'folk stories/history' or 'old tales'."
+teist,testimony%1:10:01::,an assertion offering firsthand authentication of a fact,2,1,1,
 airitiu,pickings%1:04:00::,the act of someone who picks up or takes something,2,0,1,"The translation is incorrect. It can be translated 'receiving' or 'accepting'. However, the definition could, at least loosely, match the correct translation, 'receiving'."
 gním,work%1:04:00::,activity directed toward making or doing something,2,1,1,"It can be translated 'deed', 'act', 'activity' or 'work'."
 aingel,angel%1:18:00::,spiritual being attendant upon God,3,1,1,
-doínecht,manhood%1:26:00::,the state of being a man; manly qualities,2,,,
-pecthach,sinner%1:18:00::,a person who sins (without repenting),2,,,
+doínecht,manhood%1:26:00::,the state of being a man; manly qualities,2,1,0,"It means 'manhood' in the traditional sense, 'being human', not 'being male'."
+pecthach,sinner%1:18:00::,a person who sins (without repenting),2,1,1,
 popul,people%1:14:00::,(plural) any group of human beings (men or women or children) collectively,3,1,1,
-nuiednisse,testament%1:09:00::,a profession of belief,3,,,
-cumsanad do,remainder%1:24:00::,something left after other parts have been taken away,3,,,
-cumsanad,remainder%1:24:00::,something left after other parts have been taken away,2,,,
+nuiednisse,testament%1:09:00::,a profession of belief,3,0,0,"It means the 'New Testiment'."
+cumsanad do,remainder%1:24:00::,something left after other parts have been taken away,3,0,0,"This is an exact duplicate of the entry below, exept the lemma includes a preposition erroniously. This is not a real MWE."
+cumsanad,remainder%1:24:00::,something left after other parts have been taken away,2,0,0,"It means the act of 'ceasing', 'rest' or 'repose'."
 sacart,priest%1:18:00::,a clergyman in Christian churches who has the authority to perform or administer various religious rites; one of the Holy Orders,2,1,1,
