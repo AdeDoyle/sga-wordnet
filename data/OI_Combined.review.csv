@@ -488,75 +488,75 @@ aicsenugud,causality%1:24:00::,the relation between causes and effects,3,0,0,"It
 dotét,arrive%2:38:00::,reach a destination; arrive by movement or progress,2,1,1,"The translation should be 'come', but it can be translated 'arrive' in certain contexts as an extension of it's primary meaning, 'to come'."
 cocart,correction%1:04:00::,the act of offering an improvement to replace a mistake; setting right,3,1,1,"The definition is correct, but it can also mean the correction itself."
 camm,devious%5:00:00:indirect:02,indirect in departing from the accepted or proper way; misleading,5,0,1,"It literally translates 'crooked', 'bent', 'curved' or 'twisted', but by extension can mean 'perversity', 'injustice' or 'a flaw'. In the sense of 'perversity' I suppose the definition here just about is appropriate, however the translation is not. I don't know how the process came up with 'devious' or 'indirect', because 'camm' is only used in our dataset in MWE combinations, meaning 'cross-eyed' and referring to the grammatical oblique case. Never in its simple form."
-atárcadach,anaphoric%3:01:00::,relating to anaphora,2,,,
-mrechtrad,diverseness%1:07:00::,noticeable heterogeneity,2,1,1,"The translation should be 'variety' or 'diversity'."
-écsamlus,diverseness%1:07:00::,noticeable heterogeneity,2,,,
+atárcadach,anaphoric%3:01:00::,relating to anaphora,2,1,1,
+mrechtrad,diverseness%1:07:00::,noticeable heterogeneity,2,1,1,"The translation should be 'variety' with the extension 'diversity'."
+écsamlus,diverseness%1:07:00::,noticeable heterogeneity,2,1,1,"I think 'diversity' is the correct word here, while 'diverseness' is acceptable but rarely used. Other translatiions might be 'dissimilarity' or 'difference'."
 aricc,invent%2:36:00::,"come up with (an idea, plan, explanation, theory, or principle) after a mental effort",3,1,1,"It can be translated 'come upon', 'meet', 'find', 'devise', 'compose', 'effect' or 'invent'."
-immcomairc,ask%2:32:01::,make a request or demand for something to somebody,2,,,
-foillsigud,demonstration%1:04:01::,a public display of group feelings (usually of a political nature),3,,,
-foraithmet,remembrance%1:09:00::,the ability to recall past occurrences,2,,,
+immcomairc,ask%2:32:01::,make a request or demand for something to somebody,2,1,0,"It means to ask in the sense 'question' or 'inquire'. Not 'request'."
+foillsigud,demonstration%1:04:01::,a public display of group feelings (usually of a political nature),3,1,1,
+foraithmet,remembrance%1:09:00::,the ability to recall past occurrences,2,1,0,"I think the act of remembering rather than the ability to do so, as this is a verbal noun."
 leth,part%1:09:02::,that which concerns a person with regard to a particular role or situation,4,0,0,"I think the it's getting confused because of the common phrase 'rann fo leith' = 'a separate part', where 'rann' means 'part', not 'leth'."
 aitrebthaid,owner%1:18:02::,a person who owns something,7,1,0,"Used to translate Latin 'possessor', but in these cases it means the grammatical 'possessor', i.e. in genitive constructions, etc. I think it probably only means 'owner' in the sense of 'occupier of a premises' rather than anything much more broad."
-atárcud,epanaphora%1:10:00::,repetition of a word or phrase at the beginning of successive clauses,4,,,
+atárcud,epanaphora%1:10:00::,repetition of a word or phrase at the beginning of successive clauses,4,1,1,
 attá,be%2:42:05::,occupy a certain position or area; be somewhere,3,1,1,"This is certainly a possible definition for the substantive verb."
 césad,rage%1:26:02::,something that is desired intensely,2,0,0,"It means 'passion' in the sense of 'the Passion of Christ', or otherwise in relation to the passive voice. Not as a strong emotion other than suffering."
-accuis,cause%1:11:00::,events that provide the generative force that is the origin of something,2,,,
-tosach,beginning%1:11:00::,the event consisting of the start of something,2,,,
-fogní,interpret%2:31:00::,make sense of; assign a meaning to,3,,,
-fillid,inflect%2:32:01::,change the form of a word in accordance as required by the grammatical rules of the language,2,,,
+accuis,cause%1:11:00::,events that provide the generative force that is the origin of something,2,1,1,
+tosach,beginning%1:11:00::,the event consisting of the start of something,2,1,1,
+fogní,interpret%2:31:00::,make sense of; assign a meaning to,3,0,1,"It should be translated 'construe'."
+fillid,inflect%2:32:01::,change the form of a word in accordance as required by the grammatical rules of the language,2,1,1,
 scríbaid,write%2:36:00::,produce a literary work,2,1,1,
-etercert,interpretation%1:09:01::,a mental representation of the meaning or significance of something,3,,,
-foillsigthech,demonstrative%3:00:00::,given to or marked by the open expression of emotion,2,,,
-doairngir,promise%2:32:00::,make a promise or commitment,2,,,
+etercert,interpretation%1:09:01::,a mental representation of the meaning or significance of something,3,1,1,
+foillsigthech,demonstrative%3:00:00::,given to or marked by the open expression of emotion,2,1,0,"It only means 'demonstrative' in the linguistic/grammatical sense."
+doairngir,promise%2:32:00::,make a promise or commitment,2,1,1,"Again, using the word being defined in the definition seems a problem to me, even if it's technically accurate."
 dobeir,understand%2:31:00::,know and comprehend the nature or meaning of,3,1,1,"Generally this can be translated 'give', 'place' or 'bring'. The perfective form of this verb from a suppletive root, '*to-ucc-' = lit. 'can bring' is the basis of a complete paradigm with the distinct meaning 'understands'."
 asgnin,understand%2:31:00::,know and comprehend the nature or meaning of,2,1,1,
-iress,religion%1:09:00::,a strong belief in a supernatural power or powers that control human destiny,27,,,
-doérig,abandon%2:31:00::,leave someone who needs or counts on you; leave in the lurch,2,,,
-graif,grave_accent%1:10:00::,a mark (‘) placed above a vowel to indicate pronunciation,4,,,
-comaccomol,concurrence%1:07:00::,the temporal property of two things happening at the same time,2,,,
-sechtardae,externally%4:02:01::,on or from the outside,2,,,
+iress,religion%1:09:00::,a strong belief in a supernatural power or powers that control human destiny,27,1,1,
+doérig,abandon%2:31:00::,leave someone who needs or counts on you; leave in the lurch,2,1,1,
+graif,grave_accent%1:10:00::,a mark (‘) placed above a vowel to indicate pronunciation,4,1,1,
+comaccomol,concurrence%1:07:00::,the temporal property of two things happening at the same time,2,0,0,"It means a 'conjunction', as in the type of word."
+sechtardae,externally%4:02:01::,on or from the outside,2,1,1,
 dub,ink%1:27:01::,a liquid used for printing or writing or drawing,2,1,1,
-nert,force%1:07:00::,physical energy or intensity,3,,,
-locdatu,vicinity%1:15:00::,a surrounding or nearby region,2,,,
-crích,boundary%1:15:00::,the line or plane indicating the limit or extent of something,2,,,
+nert,force%1:07:00::,physical energy or intensity,3,1,1,"Really, the translation should be 'strength', but 'force' is used in our dataset."
+locdatu,vicinity%1:15:00::,a surrounding or nearby region,2,0,0,"I think the translation has to be 'location' or 'locality'. Vacinity isn't close enough, nor 'surrounding' region. It's just a region."
+crích,boundary%1:15:00::,the line or plane indicating the limit or extent of something,2,1,1,
 aiccent,stress%1:10:01::,the relative prominence of a syllable or musical note (especially with regard to stress or pitch),2,0,1,"This is always translated 'accent' in our dataset, and I can't guarantee that this term would be used to infer the slightly distinct meaning, 'stress'. Particularly in the context of Old Irish, where word stress dictates so much, I would be careful about conflating the two."
-nert,force%1:19:00::,(physics) the influence that produces a change in a physical quantity,2,,,
+nert,force%1:19:00::,(physics) the influence that produces a change in a physical quantity,2,1,0,"I think this is a modern, scientific definition, and hence isn't appropriate here."
 creitid,believe%2:31:01::,follow a credo; have a faith; be a believer,2,1,1,
 torbae,profit%1:07:00::,the advantageous quality of being beneficial,3,1,1,"It can be translated 'profit' or 'benefit'."
 creitid,believe%2:31:00::,accept as true; take to be true,5,1,1,
 foirbthetu,perfection%1:26:00::,the state of being without a flaw or defect,5,1,1,
-airlam,ready%3:00:00::,completely prepared or in condition for immediate action or use or progress,2,,,
+airlam,ready%3:00:00::,completely prepared or in condition for immediate action or use or progress,2,1,1,
 soiscélae,gospel%1:10:00::,"the four books in the New Testament (Matthew, Mark, Luke, and John) that tell the story of Christ's life and teachings",6,1,1,
 olc,evil%1:04:00::,morally objectionable behavior,2,1,1,
 dígal,punishment%1:04:00::,"the act of punishing, or the infliction of a penalty",5,1,1,
 maith,thing%1:04:00::,an action,2,0,0,"It means 'good'."
-mesrugud,moderation%1:07:00::,quality of being moderate and avoiding extremes,2,,,
+mesrugud,moderation%1:07:00::,quality of being moderate and avoiding extremes,2,1,1,
 peccad,sin%1:04:00::,an act that is regarded by theologians as a transgression of God's will,4,1,1,
-cuimrech,alliance%1:24:00::,a connection based on kinship or marriage or common interest,2,,,
+cuimrech,alliance%1:24:00::,a connection based on kinship or marriage or common interest,2,0,0,"It means 'bond', 'binding', 'fastening', 'fettering' or 'captivity'. Not a familial bond or a bond between allies."
 maith,good%1:07:01::,moral excellence or admirableness,2,1,1,
 pridchid,preach%2:32:02::,deliver a sermon,3,1,1,
-forcetlid,teacher%1:18:00::,a person whose occupation is teaching,4,,,
-imdibe,circumcision%1:04:00::,the act of circumcising; surgical removal of the foreskin of males,3,,,
+forcetlid,teacher%1:18:00::,a person whose occupation is teaching,4,1,1,
+imdibe,circumcision%1:04:00::,the act of circumcising; surgical removal of the foreskin of males,3,1,1,
 cenn,behalf%1:04:00::,as the agent of or on someone's part (usually expressed as ‘on behalf of’ rather than ‘in behalf of’),2,0,0,"The phrase 'dar [bar] cenn' can mean 'on [your] behalf' (lit. above [your] head), but 'cenn' alone just means 'head'."
-cosmail,like%3:00:00::,resembling or similar; having the same or some of the same characteristics; often used in combination,2,,,
-íarmifoich,search%2:35:00::,"try to locate or discover, or try to establish the existence of",2,,,
-fírinne,righteousness%1:07:00::,adhering to moral principles,6,,,
+cosmail,like%3:00:00::,resembling or similar; having the same or some of the same characteristics; often used in combination,2,1,1,
+íarmifoich,search%2:35:00::,"try to locate or discover, or try to establish the existence of",2,0,1,"It means 'seek' or 'ask'. 'Search' is not close enough."
+fírinne,righteousness%1:07:00::,adhering to moral principles,6,1,1,
 fuil,blood%1:08:00::,"the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets",2,1,1,
-dodcad,misfortune%1:11:00::,unnecessary and unforeseen trouble resulting from an unfortunate event,2,,,
-íccaid,salvage%2:41:00::,"save from ruin, destruction, or harm",3,,,
+dodcad,misfortune%1:11:00::,unnecessary and unforeseen trouble resulting from an unfortunate event,2,1,1,
+íccaid,salvage%2:41:00::,"save from ruin, destruction, or harm",3,0,1,"Though, it's normal meaning is 'pay', it's attested with the meaning 'save' or 'redeem', which is the intended meaning here. But not 'salvage'."
 cretem _,belief%1:09:00::,any cognitive content held as true,2,1,1,"'cretem' can be translated 'belief', 'faith', 'religion' or 'believing'. The underscore in the lemma is an error."
-ícc,redemption%1:04:01::,(theology) the act of delivering from sin or saving from evil,6,,,
+ícc,redemption%1:04:01::,(theology) the act of delivering from sin or saving from evil,6,1,1,
 gním,works%1:04:00::,performance of moral or religious acts,2,0,0,"It can mean an 'act', 'deed', 'activity' or 'work', not plural. Also, the act does not need to be moral or religious."
-colinn,human_body%1:08:00::,alternative names for the body of a human being,4,,,
-colnide,animal%5:00:00:physical:00,marked by the appetites and passions of the body,2,,,
-comalnaithir,carry_through%2:36:00::,put in effect,9,,,
+colinn,human_body%1:08:00::,alternative names for the body of a human being,4,0,0,"It can mean 'body' but not 'human-body'. It actually means 'flesh', but can have the same connotations as in English 'in the flesh', i.e. 'embodiment', or 'in bodily form', and as an extension can mean 'body', 'corpse, 'carcass'."
+colnide,animal%5:00:00:physical:00,marked by the appetites and passions of the body,2,0,1,"It means 'carnal' or 'corporeal'. By extension, it can mean 'a material thing', but I can't find an attestation which would support 'physical' as an adjective."
+comalnaithir,carry_through%2:36:00::,put in effect,9,0,1,"It means 'fulfil' or 'perform' (a task or duty)."
 tairngire,promise%1:09:00::,grounds for feeling hopeful about the future,2,1,0,"It means promise in the sense of a statement of assurance, or commitment."
 tairngire _,promise%1:09:00::,grounds for feeling hopeful about the future,2,1,0,"This is an exact duplicate of the entry above with an erronious underscore for some reason."
-iressach,faithful%3:00:00::,steadfast in affection or allegiance,2,,,
+iressach,faithful%3:00:00::,steadfast in affection or allegiance,2,1,0,"It specifically meanss 'faithful' in a religious sense."
 bás,death%1:11:00::,the event of dying or departure from life,4,1,1,
 lá,day%1:28:03::,a point or period in time,2,1,1,"'lá' can be used with the meaning 'a point in time', e.g. 'co laa Poil' = 'until Paul's time' (Wb. 5b4)."
-coibse,confession%1:04:00::,(Roman Catholic Church) the act of a penitent disclosing their sinfulness before a priest in the sacrament of penance in the hope of absolution,2,,,
-foídid,send%2:38:01::,cause to go somewhere,2,,,
+coibse,confession%1:04:00::,(Roman Catholic Church) the act of a penitent disclosing their sinfulness before a priest in the sacrament of penance in the hope of absolution,2,1,1,
+foídid,send%2:38:01::,cause to go somewhere,2,1,1,
 is,send%2:38:01::,cause to go somewhere,2,0,0,"This is the copula. It does not mean 'send'."
 bél,lip%1:08:00::,either of two fleshy folds of tissue that surround the mouth and play a role in speaking,21,
 precept,teaching%1:04:00::,the profession of a teacher,5,,,
@@ -575,7 +575,7 @@ caindleóir,carrier%1:18:03::,someone whose employment involves carrying somethi
 laithe,judgment_day%1:28:00::,(New Testament) day at the end of time following Armageddon when God will decree the fates of all individual humans according to the good and evil of their earthly lives,2,0,0,"This would require a MWE, as in 'dilaithiu brátho' = 'of doomsday' (Wb. 25d20). Alone, however, 'laithe' just means 'day'."
 ainmnetach,patient%3:00:00::,enduring trying circumstances with even temper or characterized by such endurance,2,,,
 grád,order%1:10:03::,"(often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed",4,,,
-doairngir,promise%2:32:01::,promise to undertake or give,3,,,
+doairngir,promise%2:32:01::,promise to undertake or give,3,1,1,"Again, using the word being defined in the definition seems a problem to me, even if it's technically accurate."
 foácaib,leave%2:31:05::,"go and leave behind, either intentionally or by neglect or forgetfulness",2,,,
 senchas,narrative%1:10:00::,a message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program,2,,,
 teist,testimony%1:10:01::,an assertion offering firsthand authentication of a fact,2,,,
